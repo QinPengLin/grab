@@ -100,6 +100,5 @@ class runs(Step):
 	"""docstring for runs"""
 	def execute(self, arguments):
 		response=self.context.request('GET','https://www.baidu.com/')
-		logger().info(response.text)
-		print response.text
+        print response.status_code
 		
