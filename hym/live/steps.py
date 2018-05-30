@@ -43,6 +43,9 @@ class Init(Step):
         self.context.session.verify = False
         log_path = sys.path[0] + '/logs/request_log/{0}_{1}.log'.format(time.strftime('%Y-%m-%d_%H-%M-%S_'),
                                                                         random.randint(1000000, 9999999))
+        if not os.path.isdir(os.path.split(log_path)[0]):
+            os.makedirs(os.path.split(log_path)[0])
+            pass
         logger().info('request log path: {0}'.format(log_path))
         requestLogAdapter = RetryAdapter(self.check_retry, log_path, max_retries=5)
         self.context.session.mount('http://', requestLogAdapter)
