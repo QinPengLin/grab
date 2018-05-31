@@ -6,7 +6,6 @@
 import sys
 import os
 import re
-import function
 
 
 project_path = os.path.split(os.path.realpath(__file__))[0] + '/../..'
@@ -19,14 +18,14 @@ from hym.live.steps import *
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-# if __name__ == '__main__':
-# 	context=Context()
+if __name__ == '__main__':
+	context=Context()
 
-# 	steps=[
-# 	Init,
-# 	runs
-# 	]
-# 	pipeline=Pipeline(context, steps)
-# 	pipeline.start()
-# 	pass
-print function.link_redis().get('foo')
+	steps=[
+	Init,
+	runs
+	]
+	pipeline=Pipeline(context, steps)
+	pipeline.start()
+	pass
+#print function.link_redis().get('foo')

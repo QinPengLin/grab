@@ -59,6 +59,8 @@ class Init(Step):
             'Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
         })
         self.context.request = self.request
+        #初始化redis链接
+        self.context.redis=function.link_redis()
         pass
 
     def check_retry(self, response):
@@ -126,6 +128,7 @@ class runs(Step):
             }
             y+=1
             pass
+        self.context.redis.set('live',listss)
         print listss[0]['title']
         print listss[0]['heat']
         print listss[0]['img']
