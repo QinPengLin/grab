@@ -127,7 +127,7 @@ class runs(Step):
             'heat':heat,
             'heat_int':str(function.conversion(heat)),
             'href':'https://www.douyu.com'+str(href[0]),
-            'create_time':str(time.time() * 1000)
+            'create_time':str(time.time())
             }
             y+=1
             pass
