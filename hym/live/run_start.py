@@ -6,7 +6,7 @@
 import sys
 import os
 import re
-import redis
+import function
 
 
 project_path = os.path.split(os.path.realpath(__file__))[0] + '/../..'
@@ -29,6 +29,4 @@ sys.setdefaultencoding('utf-8')
 # 	pipeline=Pipeline(context, steps)
 # 	pipeline.start()
 # 	pass
-pool = redis.ConnectionPool(host='127.0.0.1', port=6379, db=0)
-r = redis.Redis(connection_pool=pool)
-print r.get('foo')
+print function.link_redis().get('foo')

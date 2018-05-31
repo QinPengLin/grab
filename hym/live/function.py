@@ -6,6 +6,7 @@ import random
 import json
 import time
 import os
+import redis
 
 def conversion(strs):
 	dw=None
@@ -28,4 +29,9 @@ def conversion(strs):
 		intf=1000
 		pass
 	return int(float(ints)*intf)
+	pass
+def link_redis(host='127.0.0.1',port=6379,db=0):
+	pool = redis.ConnectionPool(host=host, port=port, db=db)
+	r = redis.Redis(connection_pool=pool)
+	return r
 	pass
