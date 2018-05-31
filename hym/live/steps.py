@@ -125,7 +125,7 @@ class runs(Step):
             'types':types,
             'author':author,
             'heat':heat,
-            'heat_int':function.conversion(heat),
+            'heat_int':str(function.conversion(heat)),
             'href':'https://www.douyu.com'+str(href[0])
             }
             y+=1
