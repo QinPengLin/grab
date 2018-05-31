@@ -8,6 +8,8 @@ import re
 import hashlib
 import traceback
 import sys
+import function
+import lxml.html as xt
 
 import requests
 from datetime import datetime
@@ -52,7 +54,9 @@ class Init(Step):
         self.context.session.mount('https://', requestLogAdapter)
         self.context.session.headers.update({
             'Accept-Encoding': 'gzip, deflate, br',
-            'Accept-Language': 'zh-CN,zh;q=0.9'
+            'Accept-Language': 'zh-CN,zh;q=0.9',
+            'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36',
+            'Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8'
         })
         self.context.request = self.request
         pass
@@ -97,8 +101,35 @@ class Init(Step):
         return response
         pass
 class runs(Step):
-	"""docstring for runs"""
-	def execute(self, arguments):
-		response=self.context.request('GET','https://www.baidu.com/')
-		print response.status_code
-		
+    """docstring for runs"""
+    def execute(self, arguments):
+        response=self.context.request('GET','https://www.douyu.com/directory/game/wzry')
+        tl=response.text
+        a=xt.fromstring(tl)
+        ul=a.xpath('//ul[@id="live-list-contentbox"]')
+        li=ul[0].xpath('li')
+        y=0
+        listss={}
+        for x in li:
+            img=x.xpath('a/span/img[@class="JS_listthumb"]/@data-original')
+            title=(x.xpath('a/div/div/h3[@class="ellipsis"]')[0]).text
+            types=(x.xpath('a/div/div/span[@class="tag ellipsis"]')[0]).text
+            author=(x.xpath('a/div/p/span[@class="dy-name ellipsis fl"]')[0]).text
+            heat=(x.xpath('a/div/p/span[@class="dy-num fr"]')[0]).text
+            listss[y]={
+            'title':title,
+            'img':img[0],
+            'types':types,
+            'author':author,
+            'heat':heat,
+            'heat_int':function.conversion(heat)
+            }
+            y+=1
+            pass
+        print listss[0]['title']
+        print listss[0]['heat']
+        print listss[0]['img']
+        print listss[0]['types']
+        print listss[0]['author']
+        print listss[0]['heat_int']
+        	
