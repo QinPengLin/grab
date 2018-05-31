@@ -130,7 +130,8 @@ class runs(Step):
             }
             y+=1
             pass
-        self.context.redis.set('live',listss)
+        json_str=json.dumps(listss)
+        self.context.redis.set('live',json_str)
         print 'no'
         # print listss[0]['title']
         # print listss[0]['heat']
