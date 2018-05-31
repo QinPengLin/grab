@@ -114,6 +114,7 @@ class runs(Step):
         listss={}
         for x in li:
             img=x.xpath('a/span/img[@class="JS_listthumb"]/@data-original')
+            href=x.xpath('a[@class="play-list-link"]/@href')
             title=(x.xpath('a/div/div/h3[@class="ellipsis"]')[0]).text
             types=(x.xpath('a/div/div/span[@class="tag ellipsis"]')[0]).text
             author=(x.xpath('a/div/p/span[@class="dy-name ellipsis fl"]')[0]).text
@@ -124,7 +125,8 @@ class runs(Step):
             'types':types,
             'author':author,
             'heat':heat,
-            'heat_int':function.conversion(heat)
+            'heat_int':function.conversion(heat),
+            'href':href[0]
             }
             y+=1
             pass
