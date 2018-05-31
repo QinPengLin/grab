@@ -129,10 +129,11 @@ class runs(Step):
             y+=1
             pass
         self.context.redis.set('live',listss)
-        print listss[0]['title']
-        print listss[0]['heat']
-        print listss[0]['img']
-        print listss[0]['types']
-        print listss[0]['author']
-        print listss[0]['heat_int']
+        print 'no'
+        # print listss[0]['title']
+        # print listss[0]['heat']
+        # print listss[0]['img']
+        # print listss[0]['types']
+        # print listss[0]['author']
+        # print listss[0]['heat_int']
         	
