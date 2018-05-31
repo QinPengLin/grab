@@ -28,4 +28,4 @@ if __name__ == '__main__':
 	pipeline=Pipeline(context, steps)
 	pipeline.start()
 	pass
-#print function.link_redis().get('foo')
+#print function.random_time()

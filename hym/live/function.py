@@ -35,3 +35,7 @@ def link_redis(host='127.0.0.1',port=6379,db=0):
 	r = redis.Redis(connection_pool=pool)
 	return r
 	pass
+def random_time():
+	ints=random.randrange(1,500)
+	return ints
+	pass

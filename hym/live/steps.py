@@ -105,6 +105,9 @@ class Init(Step):
 class runs(Step):
     """docstring for runs"""
     def execute(self, arguments):
+        ra_ti=function.random_time()
+        time.sleep(ra_ti)
+        logger().info('sleep_time:'+str(ra_ti))
         response=self.context.request('GET','https://www.douyu.com/directory/game/wzry')
         tl=response.text
         a=xt.fromstring(tl)
