@@ -180,7 +180,7 @@ class returnCrossDomain(Thread):
 
 def main():
 	sock=socket.socket(socket.AF_INET,socket.SOCK_STREAM)
-	sock.bind(('localhost',888))
+	sock.bind(('0.0.0.0',888))
 	sock.listen(100)
 	thread_list=[]
 	while True:
