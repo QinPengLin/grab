@@ -1,0 +1,240 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>websocket</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="keywords" content="Modern Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template,
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel='stylesheet' type='text/css' />
+    <!-- Custom CSS -->
+    <link href="css/style.css" rel='stylesheet' type='text/css' />
+    <link href="css/font-awesome.css" rel="stylesheet">
+    <!-- jQuery -->
+    <script src="js/jquery.min.js"></script>
+    <!----webfonts--->
+    <link href='http://fonts.useso.com/css?family=Roboto:400,100,300,500,700,900' rel='stylesheet' type='text/css'>
+    <!---//webfonts--->
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+</head>
+<body>
+<div id="wrapper">
+    <!-- Navigation -->
+    <nav class="top1 navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="index.html">Modern</a>
+        </div>
+        <!-- /.navbar-header -->
+        <ul class="nav navbar-nav navbar-right">
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle avatar" data-toggle="dropdown"><img src="images/1.png" alt=""/><span class="badge"></span></a>
+                <ul class="dropdown-menu">
+                    <li class="m_2"><a href="#"><i class="fa fa-lock"></i> Logout</a></li>
+                </ul>
+            </li>
+        </ul>
+        <div class="navbar-default sidebar" role="navigation">
+            <div class="sidebar-nav navbar-collapse">
+                <ul class="nav" id="side-menu">
+                    <li>
+                        <a href="#"><i class="fa fa-envelope nav_icon"></i>Mailbox<span class="fa arrow"></span></a>
+                        <ul class="nav nav-second-level">
+                            <li>
+                                <a href="websocket.html">websocket</a>
+                            </li>
+                        </ul>
+                        <!-- /.nav-second-level -->
+                    </li>
+                </ul>
+            </div>
+            <!-- /.sidebar-collapse -->
+        </div>
+        <!-- /.navbar-static-side -->
+    </nav>
+    <div id="page-wrapper">
+        <div class="graphs">
+            <div class="xs">
+                <h3 id="my"></h3>
+                <div class="col-md-4 email-list1">
+
+                    <div class="content-box  mrg15B">
+                        <div class="content-box-wrapper text-center" style="margin-top: 0px;">
+                            <h4 class="content-box-header">
+                                聊天消息
+                            </h4>
+
+                            <div class="activity_box">
+                                <div class="scrollbar record" id="style-2">
+
+                                    <!--<div class="activity-row">-->
+                                        <!--<div class="col-xs-1"><i class="fa fa-user text-info icon_12"></i>  </div>-->
+                                        <!--<div class="col-xs-3 activity-img"><img src="images/1.png" class="img-responsive" alt=""></div>-->
+                                       <!--<div class="col-xs-8 activity-desc">-->
+                                            <!--<h5><a href="#">Lorem Ipsum</a> liked <a href="#">random</a></h5>-->
+                                            <!--<p>-->
+                                                <!--Lorem Ipsum is simply dummy-->
+                                                <!--Lorem Ipsum is simply dummy-->
+                                                <!--Lorem Ipsum is simply dummy-->
+                                                <!--Lorem Ipsum is simply dummy-->
+                                                <!--Lorem Ipsum is simply dummy-->
+                                            <!--</p>-->
+                                            <!--<h6>8:03</h6>-->
+                                        <!--</div>-->
+                                        <!--<div class="clearfix"> </div>-->
+                                    <!--</div>-->
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="content-box  mrg15B">
+                        <div class="content-box-wrapper text-center">
+                            <h4 class="content-box-header">
+                               在线用户
+                            </h4>
+                            <div class="activity_box">
+                                <div class="scrollbar" id="style-2">
+                                    <ul class="collection" id="members_list">
+
+                                        <!--<li class="collection-item avatar email-unread">-->
+                                            <!--<i class="fa fa-users icon_1"></i>-->
+                                            <!--<div class="avatar_left">-->
+                                                <!--<span class="email-title">用户名</span>-->
+                                                <!--<p class="truncate grey-text ultra-small">-->
+                                                    <!--Ipsum is simply dummy text of.-->
+                                                <!--</p>-->
+                                            <!--</div>-->
+                                            <!--<div class="clearfix"> </div>-->
+                                            <!--<hr/>-->
+                                        <!--</li>-->
+
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-8 inbox_right">
+                    <div class="Compose-Message">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                Send New message
+                            </div>
+                            <div class="panel-body">
+                                <div class="alert alert-info" style="display: none;">
+                                    提示信息
+                                </div>
+                                <label>Enter Message : </label>
+                                <textarea id="v" rows="6" class="form-control1 control2"></textarea>
+                                <hr>
+                                <a href="#" onclick="sends()" class="btn btn-warning btn-warng1"><span  class="glyphicon glyphicon-envelope tag_02"></span> Send Message </a>&nbsp;
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="clearfix"> </div>
+            </div>
+            <div class="copy_layout">
+                <p>Copyright &copy; 2015.Company Qin All rights reserved.</p>
+            </div>
+        </div>
+    </div>
+    <!-- /#page-wrapper -->
+</div>
+<!-- /#wrapper -->
+<!-- Nav CSS -->
+<link href="css/custom.css" rel="stylesheet">
+<!-- Metis Menu Plugin JavaScript -->
+<script src="js/metisMenu.min.js"></script>
+<script src="js/custom.js"></script>
+<script>
+    var socket=new WebSocket('ws://119.29.79.64:888');
+    //var socket=new WebSocket('ws://localhost:888');
+    socket.onopen=function (msg) {
+        //console.log(msg);
+        console.log(socket.readyState);
+    }
+    socket.onmessage = function (msg)
+    {
+        var received_msg = msg.data;
+        console.log(received_msg);
+        try
+        {
+            var obj = JSON.parse(received_msg);
+        }
+        catch(err)
+        {
+            var restr=received_msg.split(":");
+            var redata='';
+            for (var i in restr){
+                if (i>0){
+                    redata=redata+restr[i];
+                }
+            }
+            $(".record").append('<div class="activity-row">'+
+                    '<div class="col-xs-1"><i class="fa fa-user text-info icon_12"></i>  </div>'+
+                    '<div class="col-xs-3 activity-img"><img src="images/1.png" class="img-responsive" alt=""></div>'+
+                    '<div class="col-xs-8 activity-desc">'+
+                    '<h5>'+restr[0]+'</h5>'+
+                    '<p>'+redata+'</p>'+
+                    '<h6>8:03</h6>'+
+                    '</div>'+
+                    '<div class="clearfix"> </div>'+
+                    '</div>');
+            return;
+        }
+
+        var msg_html='<div class="activity-row">'+
+                '<div class="col-xs-1"><i class="fa fa-user text-info icon_12"></i>  </div>'+
+            '<div class="col-xs-3 activity-img"><img src="images/1.png" class="img-responsive" alt=""></div>'+
+            '<div class="col-xs-8 activity-desc">'+
+            '<h5>'+obj.name+'</h5>'+
+            '<p>'+obj.data+'</p>'+
+    '<h6>8:03</h6>'+
+    '</div>'+
+    '<div class="clearfix"> </div>'+
+            '</div>';
+        $('.record').append(msg_html);
+        var members_list_html='';
+        for(var i in obj.members_list){
+            members_list_html=members_list_html+'<li class="collection-item avatar email-unread">'+
+                    '<i class="fa fa-users icon_1"></i>'+
+                    '<div class="avatar_left">'+
+                    '<span class="email-title">用户名</span>'+
+                    '<p class="truncate grey-text ultra-small">'+obj.members_list[i]+'</p>'+
+            '</div>'+
+            '<div class="clearfix"> </div>'+
+                   ' <hr/>'+
+                   ' </li>';
+        }
+        $('#members_list').html(members_list_html);
+        if (!($('#my').html()) &&  ('early_state' in obj)){
+            $('#my').html(obj.ip+':'+obj.port);
+        }
+    };
+    socket.onclose=function (msg) {
+        console.log(msg);
+    }
+    window.onbeforeunload=function () {
+        socket.send('qiut');
+    }
+
+    function sends() {
+        var v= $('#v').val();
+        console.log(v);
+        socket.send(v);
+    }
+</script>
+</body>
+</html>
