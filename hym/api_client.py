@@ -6,9 +6,9 @@ class ApiClient:
 
     def __init__(self):
         #self.server = 'http://yangmao.ieyuan.com'
-        #self.server = 'http://ggj.api.qinpl.cn'
+        self.server = 'http://ggj.api.qinpl.cn'
         #self.server = 'http://api.yxgg.com'
-        self.server = 'http://hd.qinpl.cn/api.php'
+        #self.server = 'http://hd.qinpl.cn/api.php'
         # self.proxies = {'http':'http://127.0.0.1:8888','https':'http://127.0.0.1:8888'}
         self.proxies = None
 
