@@ -6,9 +6,9 @@ class ApiClient:
 
     def __init__(self):
         #self.server = 'http://yangmao.ieyuan.com'
-        self.server = 'http://ggj.api.qinpl.cn'
+        #self.server = 'http://ggj.api.qinpl.cn'
         #self.server = 'http://api.yxgg.com'
-        #self.server = 'http://hd.qinpl.cn/api.php'
+        self.server = 'http://hd.qinpl.cn/api.php'
         # self.proxies = {'http':'http://127.0.0.1:8888','https':'http://127.0.0.1:8888'}
         self.proxies = None
 
@@ -198,6 +198,14 @@ class ApiClient:
     def get_yxgg_newnotice(self):
         try:
             response = requests.get(self.server+'/index.php?r=notice/newnotice')
+            return response.content
+            pass
+        except Exception, e:
+            return False
+        pass
+    def get_yxgg_noticelist(self):
+        try:
+            response = requests.get(self.server+'/index.php?r=notice/noticelist')
             return response.content
             pass
         except Exception, e:

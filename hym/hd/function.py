@@ -64,18 +64,19 @@ def SetKey(time,url):
 def get_NewNotice():#/gicp/news/102/6637780.html返回最新的列表http://stzb.163.com/notice/2019/04/30/20399_811347.html
 	#json_data='{"qq_pg":{"href":"https://pg.qq.com/gicp/news/102/6600643.html"},"wy_stzb":{"href":"//stzb.163.com/notice/2019/04/19/20399_809590.html"}}'
 	#json_data='{"qq_pg":{"href":"https://pg.qq.com/gicp/news/102/6637780.html"},"wy_stzb":{"href":"http://stzb.163.com/notice/2019/04/23/20399_810226.html"}}'
-	#json_data='{"qq_pvp":{"href":"https://pvp.qq.com/webplat/info/news_version3/15592/24091/24092/24095/m15241/201905/807383.shtml"},"qq_pg":{"href":"https://pg.qq.com/gicp/news/102/6637780.html"},"wy_stzb":{"href":"http://stzb.163.com/notice/2019/04/30/20399_811348.html"}}'
+	#json_data='{"qq_pvp":{"href":"https://pvp.qq.com/webplat/info/news_version3/15592/24091/24092/24095/m15241/201810/770288.shtml"},"qq_pg":{"href":"https://pg.qq.com/gicp/news/102/6637780.html"},"wy_stzb":{"href":"http://stzb.163.com/notice/2019/04/30/20399_811348.html"}}'
 	json_data=api_client.client.get_yxgg_newnotice()
 	return json.loads(json_data)
 	pass
 def get_NoticeList():
 	json_data1='{'
 	json_data2='"qq_pg":{"href":"https://pg.qq.com/gicp/news/101/2/2003/1.html","company_name":"腾讯","name":"刺激战场","port_type":"wap"},'
-	json_data3='"wy_stzb":{"href":"http://stzb.163.com/notice/","company_name":"网易","name":"率土之滨","port_type":"wap"},'
-	json_data4='"qq_pvp":{"href":"https://pvp.qq.com/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml","company_name":"腾讯","name":"王者荣耀","port_type":"wap"}'
+	json_data3='"wy_stzb":{"href":"http://stzb.163.com/notice/","company_name":"网易","name":"率土之滨","port_type":"wap"}'
+	#json_data4='"qq_pvp":{"href":"https://pvp.qq.com/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml","company_name":"腾讯","name":"王者荣耀","port_type":"wap"}'
 	json_data_e='}'
-	json_data=str(json_data1+json_data2+json_data3+json_data4+json_data_e)
-	#json_data='{"wy_stzb":{"href":"http://stzb.163.com/notice/","company_name":"网易","name":"率土之滨","port_type":"wap"}}'
+	#json_data=str(json_data1+json_data2+json_data3+json_data_e)
+	json_data=api_client.client.get_yxgg_noticelist()
+	#print json_data
 	return json.loads(json_data)
 	pass
 def clean_NoticeList(data,types,configs):

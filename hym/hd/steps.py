@@ -392,7 +392,13 @@ class getNoticeList(Step):#获取需要更新的游戏的公告地址列表
         listss={}
         for x in notice_list.items():
             response=self.context.request('GET',x[1]['href'])
-            texts=response.content.decode(response.apparent_encoding)
+            if x[1]['text']=='1':
+                response.encoding = response.apparent_encoding
+                texts=response.text
+                pass
+            if x[1]['text']=='0':
+                texts=response.content.decode(response.apparent_encoding)
+                pass
             listss[x[0]]=function.clean_NoticeList(texts,x[0],x[1])
             pass
         self.context.NoticeList=listss
@@ -401,7 +407,7 @@ class getNoticeList(Step):#获取需要更新的游戏的公告地址列表
 class getNoticeList1(Step):#根据地址列表获取公告并且上传到服务器
     """docstring for NoticeList"""
     def execute(self, arguments):
-        if self.context.NoticeList['qq_pg']:
+        if self.context.NoticeList.has_key('qq_pg') and self.context.NoticeList['qq_pg']:
             y=0
             while self.context.NoticeList['qq_pg'].has_key(y):
                 response=self.context.request('GET',self.context.NoticeList['qq_pg'][y]['href'])
@@ -412,7 +418,7 @@ class getNoticeList1(Step):#根据地址列表获取公告并且上传到服务�
                 y+=1
                 pass
             pass
-        if self.context.NoticeList['wy_stzb']:
+        if self.context.NoticeList.has_key('wy_stzb') and self.context.NoticeList['wy_stzb']:
             ws=0
             while self.context.NoticeList['wy_stzb'].has_key(ws):
                 #print self.context.NoticeList['wy_stzb']
@@ -426,7 +432,7 @@ class getNoticeList1(Step):#根据地址列表获取公告并且上传到服务�
                 ws+=1
                 pass
             pass
-        if self.context.NoticeList['qq_pvp']:
+        if self.context.NoticeList.has_key('qq_pvp') and self.context.NoticeList['qq_pvp']:
             pvp=0
             while self.context.NoticeList['qq_pvp'].has_key(pvp):
                 response=self.context.request('GET',self.context.NoticeList['qq_pvp'][pvp]['href'])
