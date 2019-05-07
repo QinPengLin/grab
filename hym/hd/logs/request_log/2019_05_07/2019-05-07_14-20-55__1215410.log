@@ -1,0 +1,1349 @@
+[2019-05-07 14:20:55,529] 772-INFO:-------------------------------------------------------
+GET http://stzb.163.com/notice/
+request [2019-05-07 14:20:55.53]:
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240
+(Request-Line): GET /htm/novel1/27695.htm HTTP/1.1
+Accept-Language: zh-CN
+
+None
+=====================================
+
+response [2019-05-07 14:20:55.53]:
+200 OK
+Date: Tue, 07 May 2019 06:21:00 GMT
+Server: ATS
+Accept-Ranges: bytes
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: max-age=600
+Expires: Tue, 07 May 2019 06:31:00 GMT
+Content-Length: 7957
+Content-Type: text/html
+Age: 0
+Connection: keep-alive
+
+<!doctype html>
+<html data-tab-index="1">
+
+<head>
+
+    
+
+
+
+<!--This is Git Project From STZB/stzb-gw-20180529(9064)-->
+
+    <title>¡¶ÂÊÍÁÖ®±õ¡·¹«¸æ _¡¶ÂÊÍÁÖ®±õ¡·ÊÖÓÎ¹ÙÍø</title>
+    <meta name="renderer" content="webkit|ie-comp|ie-stand">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="keywords" content="ÂÊÍÁÖ®±õ,ÂÊÍÁÖ®±õÊÖÓÎ,ÂÊÍÁÖ®±õ¹ÙÍø,ÂÊÍÁÖ®±õÓÎÏ·,ÂÊÍÁÖ®±õÍøÕ¾,ÍøÒ×ÂÊÍÁÖ®±õ,ÂÊÍÁÖ®±õÍøÒ×,ÂÊÍÁÖ®±õ¹Ù·½ÓÎÏ·,ÂÊÍÁÖ®±õÓÎÏ·¹Ù·½,ÊÖÓÎÂÊÍÁÖ®±õ,ÓÎÏ·ÂÊÍÁÖ®±õ,ÂÊÍÁÖ®±õÀñ°ü,ÂÊÍÁÖ®±õÏÂÔØ,ÂÊÍÁÖ®±õ°²×¿,ÂÊÍÁÖ®±õiOS,ÂÊÍÁÖ®±õÆ»¹û,ÂÊÍÁÖ®±õ¸£Àû£¬ÂÊÍÁÖ®±õÖúÊÖ£¬ÍøÒ×ÊÖÓÎ"/>
+    <meta name="description" content="ÍøÒ×¡¶ÂÊÍÁÖ®±õ¡·ÊÖÓÎ¹ÙÍøÍøÕ¾£¬ÂÊÍÁÖ®±õÏÂÔØ£¬ÂÊÍÁÖ®±õÀñ°ü£¬ÂÊÍÁÖ®±õ¹¥ÂÔ¡£7ÔÂ¡¶ÂÊÍÁÖ®±õ¡·ÈºÐÛ·â²â,ÌåÑéÇ°ËùÎ´ÓÐµÄÍòÈËÍ¬Í¼¹úÕ½£¬ÔÚÂÊÍÁÖ®±õ£¬ÊÇÈý¹úÑÝÒå£¬ÆßÐÛÕù°Ô£¬»¹ÊÇÒ»Í³ÌìÏÂ£¬È«ÓÉÎáÍõÖ÷Ô×£¡"/>
+    <meta charset="gb2312">
+    <meta name="renderer" content="webkit">
+    <link rel="dns-prefetch" href="https://nie.res.netease.com">
+    <!--ÏîÄ¿metaÐÅÏ¢£¬Çë±à¼­Ìá¹© start-->
+    <meta name="author" content="ÍøÒ×£¬NetEase Inc.">
+    <meta name="copyright" content="ÍøÒ×£¬NetEase Inc.">
+    <meta name="pmid" content="12563">
+    <meta name="editor" content="yanwen">
+    <meta name="designer" content="king,qiufangyuan">
+    <meta name="front-end technicist" content="yinxin,guominzhi">
+    <!--ÏîÄ¿metaÐÅÏ¢£¬Çë±à¼­Ìá¹© end-->
+
+    <!--[if lt IE 9]>
+    <script src="https://nie.res.netease.com/comm/html5/html5shiv.js"></script>
+    <![endif]-->
+
+    <!--¼ÓÔØÑùÊ½-->
+    <!-- <link rel="stylesheet" data-fixed="true"  type="text/css" href="https://stzb.res.netease.com/gw/15v1/css/common_d4188e6.css" /> -->
+<link rel="stylesheet" data-fixed="true" type="text/css" href="https://stzb.res.netease.com/gw/15v1/css/list_68fab2d.css">
+
+<link rel="stylesheet" data-fixed="true" type="text/css" href="https://stzb.res.netease.com/pc/gw/20180601170149//css/ny_eac7297.css">
+
+<!--This is Git Project From STZB/stzb-gw-20180529(9064)-->
+</head>
+
+<body>
+
+    <!--[if lt IE 7]>
+    <div style="position:absoulute;left:0;top:0;width:100%;height:50px;background:rgb(255,255,233);color:rgb(30,84,148);border-bottom:1px solid rgb(230,230,198);text-align:center;line-height:50px;font-size:12px;">ÄúÊ¹ÓÃµÄä¯ÀÀÆ÷°æ±¾¹ýµÍ£¬¿ÉÄÜ»áÓ°Ïìµ½Äúä¯ÀÀ±¾ÍøÒ³£¬½¨ÒéÄúÉý¼¶ÄúµÄä¯ÀÀÆ÷¡£</div>
+    <![endif]-->
+
+    <!--´ËÄËÍ·²¿-->
+    <div id="NIE-topBar"></div>
+
+    <!--·ÖÏíÎÄ°¸-->
+    <div id="share_content" style="display:none"><!--ÉèÖÃä¯ÀÀÆ÷¼°Î¢ÐÅÖÐµã»÷·ÖÏíµÄÄ¬ÈÏÄÚÈÝ-->
+    <div id="share_title" pub-name="·ÖÏí±êÌâ">ÍøÒ×¡¶ÂÊÍÁÖ®±õ¡·£¬Ä±ÂÔÈÈ°®ÕßµÄÓÎÏ·</div><!--ÉèÖÃ·ÖÏí±êÌâ-->
+    <div id="share_url" pub-name="·ÖÏíµØÖ·"></div><!--ÉèÖÃ·ÖÏí£Õ£Ò£Ì-->
+    <img id="share_pic" src="https://stzb.res.netease.com/pc/gw/20180601170149//img/share_4d91a79.jpg" pub-name="·ÖÏíÍ¼Æ¬"><!--ÉèÖÃ·ÖÏíÍ¼Æ¬µØÖ·£¬Ê¹ÓÃsrcÖ¸¶¨Í¼Æ¬µØÖ·£¬¿É¼Ó¿ìÔÚÎ¢ÐÅÖÐµã»÷·ÖÏíÊ±µ¯¿òÖÐ·ÖÏíÍ¼±êµÄÏÔÊ¾ËÙ¶È-->
+    <div id="share_desc" pub-name="·ÖÏíÄÚÈÝ">É³ÅÌÕ½ÂÔ£¬´çÍÁ±ØÕù£¡Õâ¸öÊÀ½ç×ÊÔ´ÓÐÏÞ£¬Õù¶áÎÞ´¦²»ÔÚ£¬ÊÇÂÒÊÀÓÀºã£¬»¹ÊÇÌìÏÂÒ»Í³£¿ÕâÊÇÒ»³¡ÈËÓëÈË´´ÔìµÄÂÒÊÀ·çÔÆÊ·£¡</div><!--ÉèÖÃ·ÖÏíÄÚÈÝ-->
+</div>
+
+<!--This is Git Project From STZB/stzb-gw-20180529(9064)-->
+
+    <div class="wrap ny-wrap">
+        <div class="head">
+            <!--Í·²¿-->
+            <div class="hover_bg"></div>
+<div class="top-bar-wrap">
+<header class="top-bar">
+    <ul class="nav-sj">
+        <li><a href="/baye/" target="_blank">S2Èü¼¾</a></li>
+        <li><a href="/s3/" target="_blank">S3Èü¼¾</a></li>
+        <li><a href="/2016s4/" target="_blank">Õ÷·þÈü¼¾</a></li>
+    </ul>
+    <div class="logo-box m-bfc">
+        <a href="/index.html" class="logo">ÂÊÍÁÖ®±õ</a>
+        <p class="logo-desc">
+            <span><img src="https://webinput.nie.netease.com/img/stzb/logo.png" alt=""></span>
+            ÍøÒ×È«×ÔÓÉÉ³ÅÌÕ½ÂÔÊÖÓÎ
+            <a href="javascript:;" class="btn-intro">ÓÎÏ·½éÉÜ</a>
+        </p>
+        <div class="logo-desc-more">
+            <p>
+                <!-- <span>ÂÊÍÁÖ®±õ</span> -->
+                ¡¶ÂÊÍÁÖ®±õ¡·ÊÇÒ»¿îÈ«×ÔÓÉÊµÊ±É³ÅÌÕ½ÂÔÊÖÓÎ¡£Õâ¸öÊÀ½çÓÉ225Íò¸ñ²»Í¬²ú³öµÄÍÁµØ¹¹³É£¬Æï±øÐÐ¾üÒ»ÖÜÐèÒª4Ìì4Ò¹¡£Õâ¸öÊÀ½çÖÐ£¬Ã¿Ò»´çÍÁµØ¶¼¿ÉÕù¶á£¬Íæ¼ÒÃÇÖÃÉíÆä¼ä£¬·¢Õ¹ÄÚÕþ£¬ÕÐÄ¼½«Áì£¬½á½»ÃËÓÑ£¬´ÓÁã¿ªÊ¼´òÔìÊÆÁ¦·¶Î§¡£ÁìÍÁ×ÊÔ´ÓÐÏÞ£¬Õù¶áÎÞ´¦²»ÔÚ¡£ÀûÒæ¾ö¶¨Õ½ÂÔ£¬Íæ¼ÒÃÇ³¡ÉÏ¼¤ÁÒ¶Ô¿¹£¬³¡ÍâºÏ×ÝÁ¬ºá¡£ÊÇÂÒÊÀÓÀºã£¬»¹ÊÇÌìÏÂÒ»Í³£¿ÕâÊÇÒ»³¡ÈËÓëÈË´´ÔìµÄÂÒÊÀ·çÔÆÊ·£¡
+            </p>
+        </div>
+    </div>
+    <ul class="nav clearfix">
+        <li><a href="/index.html"><i class="i-line"></i>¹ÙÍøÊ×Ò³</a></li>
+        <li><a href="/news/"><i class="i-line"></i>ÐÂÎÅ¹«¸æ</a></li>
+        <li class="nav-sjxq">
+            <a href="javascript:;"><i class="i-line"></i>Èü¼¾ÏêÇé</a>
+        </li>
+        <li><a href="//stzb.163.com/index.html#a-feature"><i class="i-line"></i>Íæ·¨ÌØÉ«</a></li>
+        <li><a href="//stzb.163.com/strategy/zxtj" target="_blank"><i class="i-line"></i>ÓÎÏ·×ÊÁÏ</a></li>
+        <li><a href="https://stzb.16163.com/" target="_blank"><i class="i-line"></i>¹Ù·½ÂÛÌ³</a></li>
+        <li><a href="https://stzb.cbg.163.com/" target="_blank"><i class="i-line"></i>²Ø±¦¸ó</a></li>
+        <li class="public-box">
+            <span>¹Ø×¢¹«ÖÚºÅÓ®´ó½±</span>
+            <a href="javascript:;" class="public-item public-item-wx"></a>
+            <a href="http://weibo.com/p/1006065602258420" target="_blank" class="public-item public-item-yx">¹Ù·½Î¢²©</a>
+        </li>
+    </ul>
+
+
+    <div class="public-show m-bfc">
+        <img src="https://stzb.res.netease.com/pc/gw/20180601170149//img/qrcode_wx_216ccb8.jpg" alt="ÂÊÍÁÖ®±õÎ¢ÐÅ¹«ÖÚºÅ" width="78" height="78">
+        <p><span>Î¢ÐÅ¹«ÖÚºÅ</span>É¨Ãè×ó²à¶þÎ¬Âë¹Ø×¢¹«ÖÚºÅ</p>
+    </div>
+    <div class="public-show m-bfc">
+        <img src="https://stzb.res.netease.com/pc/gw/20180601170149//img/qrcode_wb_30d3658.jpg" alt="ÍøÒ×ÂÊÍÁÖ®±õ" width="78" height="78">
+        <p><span>¹Ù·½Î¢²©</span>É¨Ãè¶þÎ¬Âë¹Ø×¢£ºÍøÒ×ÂÊÍÁÖ®±õ</p>
+    </div>
+
+</header>
+</div>
+
+<!--This is Git Project From STZB/stzb-gw-20180529(9064)-->
+        </div>
+        <div class="main clearfix">
+            <div class="content">
+                <div class="con-hd">
+                    ÐÂÎÅÖÐÐÄ
+                </div>
+                <a href="/index.html" class="goback"></a>
+                <div class="con-nav">
+                    <a href="/news">ÐÂÎÅ</a>
+                    <a href="/notice">¹«¸æ</a>
+                    <a href="/strategy/zxtj">¹¥ÂÔ</a>
+                    <a href="/zhanbao">Õ½±¨</a>
+                </div>
+                <ul class="txt-list">
+                                         <li class="item">
+                        <div class="item-inner">
+                        <a href="//stzb.163.com/notice/2019/04/30/20399_811348.html" target="_blank" title="¡¶ÂÊÍÁÖ®±õ¡·ÎåÒ»µÇÂ½¸£ÀûÔ¤¸æ">
+                        <span class="category">¹«¸æ</span>
+                        <p class="p-tit">04-30 ¡¶ÂÊÍÁÖ®±õ¡·ÎåÒ»µÇÂ½¸£ÀûÔ¤¸æ</p>
+                        <p class="p-mess">¸ÐÐ»¸÷Î»Ö÷¹«¶Ô¡¶ÂÊÍÁÖ®±õ¡·µÄÖ§³Ö£¬ÓÎÏ·½«ÓÚ5ÔÂ1ÈÕÉÏÎç10µã¶ÔÈ«·þ½øÐÐÀýÐÐÎ¬»¤¡£Í¬Ê±£¬½«»á¸üÐÂÒÔÏÂÄÚÈÝ£º¡¾ÎåÒ»µÇÂ½¸£Àû¡¿¡¶ÂÊÍÁÖ®±õ¡·Ô¤×£¸÷Î»Ö÷¹«ÎåÒ»ÀÍ¶¯½Ú¿ìÀÖ£¡</p>
+                        </a>                        
+                        </div>
+                    </li>                        
+                                         <li class="item">
+                        <div class="item-inner">
+                        <a href="//stzb.163.com/notice/2019/04/30/20399_811347.html" target="_blank" title="¡¶ÂÊÍÁÖ®±õ¡·4ÔÂ30ÈÕÀýÐÐ¸üÐÂÔ¤¸æ">
+                        <span class="category">¹«¸æ</span>
+                        <p class="p-tit">04-30 ¡¶ÂÊÍÁÖ®±õ¡·4ÔÂ30ÈÕÀýÐÐ¸üÐÂÔ¤¸æ</p>
+                        <p class="p-mess">¸ÐÐ»¸÷Î»Ö÷¹«¶Ô¡¶ÂÊÍÁÖ®±õ¡·µÄÖ§³Ö£¬ÓÎÏ·½«ÓÚ4ÔÂ30ÈÕÉÏÎç10µã¶ÔÈ«·þ½øÐÐÀýÐÐÎ¬»¤¡£Í¬Ê±£¬½«»á¸üÐÂÒÔÏÂÄÚÈÝ£º¡¾ÐÂÔöÎä½«»æ¾í¡¿-Îä½«Í¼¼øÔö¼ÓÎä½«»æ¾í¹¦ÄÜ£¬ËùÓÐ5ÐÇÎä½«½«·ÖÕóÓªÔÚ»æ¾íÖÐÕ¹Ê¾£¬²¢ÏÔÊ¾Íæ¼Òµ±Ç°µÄÊÕ¼¯½ø¶È-¿ÉÔÚ¡°Îä½«Í¼¼ø¡±½çÃæÖÐ£¬µã»÷ÓÒÏÂ·½¡°»æ¾í¡±°´Å¥½øÐÐ²é¿´¡¾»æ¾í-Îâ¡¿¡¾»æ¾í-Êñ¡¿¡¾»æ¾í-Èº¡¿¡¾»æ¾í-ºº¡¿¡¾»æ¾í-Îº¡¿¡¾¹¦ÄÜµ÷Õû¡¿-Í¬ÃË¾èÏ××ÊÔ´»ñµÃµÄ¹±Ï×ÏÂµ÷ÎªÔ­À´µÄ1/5¡£</p>
+                        </a>                        
+                        </div>
+                    </li>                        
+                                         <li class="item">
+                        <div class="item-inner">
+                        <a href="//stzb.163.com/notice/2019/04/23/20399_810226.html" target="_blank" title="¡¶ÂÊÍÁÖ®±õ¡·4ÔÂ24ÈÕÀýÐÐ¸üÐÂÔ¤¸æ">
+                        <span class="category">¹«¸æ</span>
+                        <p class="p-tit">04-23 ¡¶ÂÊÍÁÖ®±õ¡·4ÔÂ24ÈÕÀýÐÐ¸üÐÂÔ¤¸æ</p>
+                        <p class="p-mess">¸ÐÐ»¸÷Î»Ö÷¹«¶Ô¡¶ÂÊÍÁÖ®±õ¡·µÄÖ§³Ö£¬ÓÎÏ·½«ÓÚ4ÔÂ24ÈÕÉÏÎç10µã¶ÔÈ«·þ½øÐÐÀýÐÐÎ¬»¤¡£</p>
+                        </a>                        
+                        </div>
+                    </li>                        
+                                         <li class="item">
+                        <div class="item-inner">
+                        <a href="//stzb.163.com/notice/2019/04/18/20399_809446.html" target="_blank" title="µ±ÀÖÇþµÀÕËºÅÊý¾ÝÇ¨ÒÆ¹«¸æ">
+                        <span class="category">¹«¸æ</span>
+                        <p class="p-tit">04-19 µ±ÀÖÇþµÀÕËºÅÊý¾ÝÇ¨ÒÆ¹«¸æ</p>
+                        <p class="p-mess">ÓÉÓÚ¡¶ÂÊÍÁÖ®±õ¡·Óëµ±ÀÖÇþµÀµÄºÏ×÷¼´½«µ½ÆÚ£¬µ½ÆÚºóµ±ÀÖÇþµÀµÄ¡¶ÂÊÍÁÖ®±õ¡·½ÇÉ«½«ÎÞ·¨µÇÂ¼ÓÎÏ·¡£Îª±£Ö¤µ±ÀÖÇþµÀµÄÍæ¼ÒÄÜ¼ÌÐøÕý³£ÌåÑé¡¶ÂÊÍÁÖ®±õ¡·£¬Òò´Ë»á½«µ±ÀÖµÄ¡¶ÂÊÍÁÖ®±õ¡·½ÇÉ«Êý¾ÝÇ¨ÒÆÖÁ¿É³ÖÐø·þÎñµÄ¡¶ÂÊÍÁÖ®±õ¡·¹Ù·½°²×¿°æ±¾¡£</p>
+                        </a>                        
+                        </div>
+                    </li>                        
+                                         <li class="item">
+                        <div class="item-inner">
+                        <a href="//stzb.163.com/notice/2019/04/19/20399_809590.html" target="_blank" title="¹ØÓÚÑÏÀ÷´ò»÷µÚÈý·½´ú³ä¼°ÕÛ¿Û³ä·µ¹«¸æ">
+                        <span class="category">¹«¸æ</span>
+                        <p class="p-tit">04-19 ¹ØÓÚÑÏÀ÷´ò»÷µÚÈý·½´ú³ä¼°ÕÛ¿Û³ä·µ¹«¸æ</p>
+                        <p class="p-mess">ÎªÁËÎ¬»¤¡¶ÂÊÍÁÖ®±õ¡·µÄ¹«Æ½ºÍÖÈÐò£¬¹¹½¨½¡¿µµÄÓÎÏ·»·¾³£¬±£ÕÏ¸÷Î»Íæ¼ÒµÄÀûÒæÒÔ¼°ÕËºÅÐÅÏ¢°²È«£¬¶ÔÓÚÍ¨¹ýÈÎºÎÕÛ¿ÛÇþµÀºÍµÚÈý·½³äÖµÆ½Ì¨³äÖµ¡¢½»Ò×ÕËºÅ£¨°üÀ¨¸÷ÀàÓ¯ÀûÐÔ³õÊ¼ºÅ£¬ÈçÊ×³äºÅµÈ£©µÈÎ¥¹æÐÐÎª£¬ÍøÒ×¹«Ë¾½«¸ù¾Ý¡¶ÍøÒ×ÓÎÏ·Ê¹ÓÃÐí¿É¼°·þÎñÐ­Òé¡·µÄÏà¹ØÔ¼¶¨ÓèÒÔÑÏÀ÷´ò»÷ºÍ´¦·£¡£Õë¶ÔÎ¥¹æÍæ¼Ò£¬ÎÒÃÇ»á±£Áô×·¾¿Æä·¨ÂÉÔðÈÎµÄÈ¨Àû£¬Í¬Ê±½«»á¶ÔÆä½øÐÐ²»ÏÞÓÚÒÔÏÂ´¦·£·½Ê½£º1¡¢¿Û³ý²ÎÓëµÚÈý·½Æ½Ì¨³ä·µÎ¥¹æÐÐÎª»ñµÃµÄÓñ·û£¬Í¬Ê±ÊÕ»Ø³äÖµ»ñµÃµÄÓÎÏ·ÎïÆ·£»2¡¢ÔÝÊ±»òÓÀ¾ÃÐÔÏÞÖÆÕËºÅµÇÂ¼µÈ´¦Àí£»3¡¢Òò·Ç·¨³äÖµµ¼ÖÂ³äÖµÎ´µ½ÕÊ¡¢Óñ·û¿Û³ýµÈÎÊÌâ£¬ÍøÒ×²»Óè²¹³¥¡£</p>
+                        </a>                        
+                        </div>
+                    </li>                        
+                                         <li class="item">
+                        <div class="item-inner">
+                        <a href="//stzb.163.com/notice/2019/04/17/20399_809154.html" target="_blank" title="¡¶ÂÊÍÁÖ®±õ¡·4ÔÂ17ÈÕÀýÐÐ¸üÐÂÔ¤¸æ">
+                        <span class="category">¹«¸æ</span>
+                        <p class="p-tit">04-16 ¡¶ÂÊÍÁÖ®±õ¡·4ÔÂ17ÈÕÀýÐÐ¸üÐÂÔ¤¸æ</p>
+                        <p class="p-mess">¸ÐÐ»¸÷Î»Ö÷¹«¶Ô¡¶ÂÊÍÁÖ®±õ¡·µÄÖ§³Ö£¬ÓÎÏ·½«ÓÚ4ÔÂ17ÈÕÉÏÎç10µã¶ÔÈ«·þ½øÐÐÀýÐÐÎ¬»¤¡£Í¬Ê±£¬½«»á¸üÐÂÒÔÏÂÄÚÈÝ£º¡¾Îä½«¼°Õ½·¨µ÷Õû¡¿-5ÐÇÎºµäÎ¤¡°¹ÅÖ®¶ñÀ´¡±Ð§¹ûµ÷ÕûÎª£º¶ÔµÐ¾üµ¥Ìå·¢¶¯Ò»´ÎÃÍ¹¥£¨ÉËº¦ÂÊ300%£©£¬²¢Ëæ»ú¶ÔµÐ¾üµ¥Ìå¹­±ø·¢¶¯Ò»´Î¹¥»÷£¨ÉËº¦ÂÊ100%£©£¬Í¬Ê±Ê¹×ÔÉíÊÜµ½ËùÓÐÉËº¦ÏÂ½µ30%£¨ÊÜ·ÀÓùÊôÐÔÓ°Ïì£©£¬³ÖÐø2»ØºÏ¡£</p>
+                        </a>                        
+                        </div>
+                    </li>                        
+                                         <li class="item">
+                        <div class="item-inner">
+                        <a href="//stzb.163.com/notice/2019/04/09/20399_808033.html" target="_blank" title="¡¶ÂÊÍÁÖ®±õ¡·4ÔÂ10ÈÕÀýÐÐ¸üÐÂÔ¤¸æ">
+                        <span class="category">¹«¸æ</span>
+                        <p class="p-tit">04-09 ¡¶ÂÊÍÁÖ®±õ¡·4ÔÂ10ÈÕÀýÐÐ¸üÐÂÔ¤¸æ</p>
+                        <p class="p-mess">¸ÐÐ»¸÷Î»Ö÷¹«¶Ô¡¶ÂÊÍÁÖ®±õ¡·µÄÖ§³Ö£¬ÓÎÏ·½«ÓÚ4ÔÂ10ÈÕÉÏÎç10µã¶ÔÈ«·þ½øÐÐÀýÐÐÎ¬»¤¡£</p>
+                        </a>                        
+                        </div>
+                    </li>                        
+                                         <li class="item">
+                        <div class="item-inner">
+                        <a href="//stzb.163.com/notice/2019/04/02/20399_807175.html" target="_blank" title="¡¶ÂÊÍÁÖ®±õ¡·4ÔÂ3ÈÕÀýÐÐ¸üÐÂÔ¤¸æ">
+                        <span class="category">¹«¸æ</span>
+                        <p class="p-tit">04-02 ¡¶ÂÊÍÁÖ®±õ¡·4ÔÂ3ÈÕÀýÐÐ¸üÐÂÔ¤¸æ</p>
+                        <p class="p-mess">¸ÐÐ»¸÷Î»Ö÷¹«¶Ô¡¶ÂÊÍÁÖ®±õ¡·µÄÖ§³Ö£¬ÓÎÏ·½«ÓÚ4ÔÂ3ÈÕÉÏÎç10µã¶ÔÈ«·þ½øÐÐÀýÐÐÎ¬»¤¡£Í¬Ê±£¬½«»á¸üÐÂÒÔÏÂÄÚÈÝ£º¡¾¹¦ÄÜµ÷Õû¡¿-[ÈºÐÛÖðÂ¹][ÈºÐÛÌÖ¶­]±øÖÖÌØÐÔÉÌÆ·ÒÆ³ýÀ©Õ¹²Ù×÷£¬¹ºÂòºóÎä½«¿ÉÖ±½ÓÑ§Ï°¡£</p>
+                        </a>                        
+                        </div>
+                    </li>                        
+                                         <li class="item">
+                        <div class="item-inner">
+                        <a href="//stzb.163.com/notice/2019/03/27/20399_806088.html" target="_blank" title="¡¶ÂÊÍÁÖ®±õ¡·3ÔÂ27ÈÕÀýÐÐ¸üÐÂÔ¤¸æ">
+                        <span class="category">¹«¸æ</span>
+                        <p class="p-tit">03-26 ¡¶ÂÊÍÁÖ®±õ¡·3ÔÂ27ÈÕÀýÐÐ¸üÐÂÔ¤¸æ</p>
+                        <p class="p-mess">¸ÐÐ»¸÷Î»Ö÷¹«¶Ô¡¶ÂÊÍÁÖ®±õ¡·µÄÖ§³Ö£¬ÓÎÏ·½«ÓÚ3ÔÂ27ÈÕÉÏÎç10µã¶ÔÈ«·þ½øÐÐÀýÐÐÎ¬»¤¡£</p>
+                        </a>                        
+                        </div>
+                    </li>                        
+                                         <li class="item">
+                        <div class="item-inner">
+                        <a href="//stzb.163.com/notice/2019/03/26/20399_805876.html" target="_blank" title="¡¶ÂÊÍÁÖ®±õ¡·3ÔÂ27ÈÕ¾öÊ¤ÖÐÔ­½±ÀøÆÀ¶¨µ÷ÕûÔ¤¸æ">
+                        <span class="category">¹«¸æ</span>
+                        <p class="p-tit">03-25 ¡¶ÂÊÍÁÖ®±õ¡·3ÔÂ27ÈÕ¾öÊ¤ÖÐÔ­½±ÀøÆÀ¶¨µ÷ÕûÔ¤¸æ</p>
+                        <p class="p-mess">ÔÚ¾öÊ¤ÖÐÔ­µÄÌìÏÂÖÐ£¬Èü¼¾µÄ½±ÀøÆÀ¶¨ÈÃÍæ¼ÒÔÚÈü¼¾½øÐÐµÄ¹ý³ÌÖÐ£¬¸ù¾Ý²»Í¬½×¶ÎÕ½¶·Çé¿ö»ñµÃ±¾½×¶ÎµÄ½±Àø¡£È»¶øÃ¿¸ö·þÎñÆ÷Õ½¿öµÄ²»Í¬£¬Ê¹µÃÌìÏÂ´óÊÆÒÔ¼°½±ÀøÆÀ¶¨µÄÊ±¼äÒ²»áÓÐËù²îÒì£¬ÎªÁËÊ¹Èü¼¾ÖÐ½±ÀøÆÀ¶¨µÄÊ±¼ä¸üÎªºÏÀí£¬±¾ÖÜ¸üÐÂÖÐ¾öÊ¤ÖÐÔ­½±ÀøÆÀ¶¨½«×öÒÔÏÂµ÷Õû£º1.¾öÊ¤ÖÐÔ­¡°Èü¼¾½±ÀøÆÀ¶¨I¡±ÓÉÔ­À´µÄ¡°¾üÕùII¡±µ÷ÕûÖÁ¡°¾üÕùI¡±¡£</p>
+                        </a>                        
+                        </div>
+                    </li>                        
+                                    </ul>
+                          <!-- ·ÖÒ³ -->
+            <div class="pager_n">
+                                
+                                                        <i>1</i>
+                                                                                <a href="//stzb.163.com/notice/index_2.html"><i>2</i></a>
+                                                                                <a href="//stzb.163.com/notice/index_3.html"><i>3</i></a>
+                                                                                <a href="//stzb.163.com/notice/index_4.html"><i>4</i></a>
+                                                                                <a href="//stzb.163.com/notice/index_5.html"><i>5</i></a>
+                                    
+                                                <a href="//stzb.163.com/notice/index_2.html" class="next"><span>ÏÂÒ»Ò³</span></a>
+                <a href="//stzb.163.com/notice/index_46.html" class="end"><span>Ä©Ò³</span></a>
+                                
+                <span class="choose_page">
+                    µÚ<input type="text" class="select_s">Ò³
+                    <button class="submit jump_s"  data-page="46">È·ÈÏ</button>
+                </span>
+                <span>µÚ<em class="cur_num" style="font-style:normal;">1</em>Ò³ ¹²<b class="total_n" id="total" style="font-weight:normal;">46</b>Ò³</span>
+            </div>
+            <!-- ·ÖÒ³ -->
+
+ 
+            </div>
+            <!--²àÀ¸-->
+            <link rel="stylesheet" data-fixed="true" type="text/css" href="https://stzb.res.netease.com/pc/gw/20180601170149//css/sidebar_365ea44.css">
+<!-- ÏÂÔØ -->
+<a id="Jdownloadbtn" class="sider-btn downloadbtn" href="javascript:void(0);"></a>
+
+<div class="sider" id="Jsider">
+    <a href="javascript:void(0);" class="btn-close"><i></i></a>
+    <div class="sider-main">
+        <div id="nie-download" class="nie-download">
+            <h6 class="title"><i></i>ÏÂÔØÓÎÏ·</h6>
+            <p class="sao">É¨Ò»É¨ÏÂÔØÓÎÏ·</p>
+            <div class="NIE-qrcode">
+                <div class="ewm-light"></div>
+                <img src="https://adl.netease.com/d/g/stzb/c/gw/qr">                
+            </div>
+            <div class="buttons">
+                <a class="link-apple NIE-button-ios no-text" target="_blank" href="https://adl.netease.com/d/g/stzb/c/gw?type=ios"></a>
+                <a class="link-android NIE-button-android no-text" target="_blank" href="https://adl.netease.com/d/g/stzb/c/gw?type=android"></a>
+            </div>
+        </div>
+        <a class="link-mac" target="_blank" href="https://adl.netease.com/d/g/stzb/c/gw">
+            <div class="desc">
+                <p>·¢²¼ÈÕÆÚ£º2018-11-23 °æ±¾ºÅ£º2.1.3 ÎÄ¼þ´óÐ¡£º732MB<br>
+                    Ö§³ÖÏµÍ³£ºWindows 7/8/10<br>
+                    MD5Öµ£ºad0aefe4bf6ebecaba95c8f3d6a92b8<br>
+                    ÎÂÜ°ÌáÊ¾£º×ÀÃæ°æÄ¿Ç°½öÖ§³Ö¹ÙÍø°²×¿ÓÃ»§ºÍiOSÓÃ»§Ê¹ÓÃ£¬Ê¹ÓÃÊ±Çë½«ÊÖ»ú¿Í»§¶Ë¸üÐÂÖÁ×îÐÂ¡£</p>
+            </div>        
+        </a>
+        <div class="hot-banner-wrap">
+            <h6 class="title"><i></i>½üÆÚÈÈµã</h6>
+            <div class="hot-banner" id="hot-banner">                
+            </div>
+        </div>
+        <div class="strategy-wrap">
+            <h6 class="title"><i></i>ÈÈÃÅ¹¥ÂÔ<a class="btn-more" href="//stzb.163.com/strategy/zxtj/index.html" target="_blank"></a></h6>
+            <div class="hot-strategy" id="hot-strategy">                
+            </div>
+        </div>
+        <div class="fengyun-wrap">
+            <h6 class="title"><i></i>ÂÊÍÁ·çÔÆ<a class="btn-more" href="//stzb.163.com/fengyun/index.html" target="_blank"></a><!-- <a href="javascript:;" class="btn-fyopen">ÊÕÆð<em></em></a> --></h6>
+            <div class="fengyun" id="fengyun">                
+            </div>
+        </div>
+        <!-- <div class="gzh">
+            <h3>ÂÊÍÁÖ®±õ¹«ÖÚºÅ</h3>
+            <div class="NIE-qrcode">
+            <img src="https://stzb.res.netease.com/pc/gw/20180601170149//img/qrcode_wx_216ccb8.jpg" alt="">
+            </div>
+            <p><strong>ÂÊÍÁÖ®±õ</strong></p>
+            <p>Î¢ÐÅ¹«ÖÚºÅ</p>
+            <p>stzb163</p>
+            <span class="btn-public"><i class="i-icon"></i>É¨ÃèÁ¢¼´¹Ø×¢</span>
+        </div> -->        
+    </div>
+</div>
+
+
+<!--This is Git Project From STZB/stzb-gw-20180529(9064)-->
+        </div>
+
+    </div>
+        <!--´ËÄËµ×²¿-->
+        <div id="NIE-copyRight" class="footer"></div>    
+    <!--µ¯´°-->
+    <div class="mask" id="mask"></div>
+<div id="pop-tg" class="pop-tg">
+    <p>ÒÔ¡¾Õ½±¨¡¿+×Ô¶¨ÒåÄÚÈÝÎª±êÌâ£¬<br>·¢ËÍÓÊ¼þµ½ stzbnews@163.com<b class="tg_tit">Í¶¸å·½Ê½£º</b></p>
+    <a href="javascript:;" class="pop-close"></a>
+</div>
+<!-- Àñ°ü -->
+<div id="pop-box" class="pop-box">
+    <div class="pop-th clearfix" id="pop-nav">
+        <a href="javascript:;">Àñ°üÁìÈ¡<i></i></a>
+        <a href="javascript:;">ÎåÒ»Àñ°üÁìÈ¡<i></i></a>
+    </div>
+    <div class="pop-bd pop-getgift-bd" style="display:none;">
+        <p class="pop-title">
+            ¡¶ÂÊÍÁÖ®±õ¡·ÐÂÊÖÀñ°ü
+        </p>
+        <p class="pop-row">
+            <label for="yuyue-phone">ÊÖ»úºÅ£º</label>
+            <input type="text" maxlength="11" id="gift-phone" value="ÇëÊäÈëÄúµÄÊÖ»úºÅÂë" data-placeholder="ÇëÊäÈëÄúµÄÊÖ»úºÅÂë">
+            <span class="pop-error-txt"></span>
+            <i class="pop-icon"></i>
+        </p>
+        <a href="javascript:;" class="pop-submit" id="btn-gift-submit">ÁìÈ¡</a>
+        <p class="tips tips-line">
+            <i>1</i>Àñ°üÄÚÈÝ£ºÄ¾²Äx3000£¬Ìú¿óx3000£¬Á¸Ê³x3000£¬Í­Ç®2000
+        </p>
+        <p class="tips">
+            <i>2</i>ÁìÈ¡ËµÃ÷£ºÓÉÓÚiOS½ûÖ¹Ê¹ÓÃÀñ°ü¼¤»îÂë£¬´ËÀñ°ü½öÏÞ°²×¿ÓÃ»§Ê¹ÓÃ£¬ÇëÖ±½ÓÔÚÓÎÏ·ÄÚ¼¤»î¡£
+        </p>
+    </div>
+     <div class="pop-bd pop-dwgift-bd" style="display:none;">
+        <p class="pop-title">
+            ¡¶ÂÊÍÁÖ®±õ¡·ÎåÒ»Àñ°ü
+        </p>
+        <p class="pop-row">
+            <label for="yuyue-tel">ÊÖ»úºÅ£º</label>
+            <input type="text" maxlength="11" id="yuyue-tel" value="ÇëÊäÈëÄúµÄÊÖ»úºÅÂë" data-placeholder="ÇëÊäÈëÄúµÄÊÖ»úºÅÂë">
+            <span class="pop-error-txt" id="dw_err"></span>
+            <i class="pop-icon"></i>
+        </p>
+        <div id="captcha"></div>
+        <a href="javascript:;" class="pop-submit" id="btn-ydgift-submit">ÁìÈ¡</a>
+        <p class="tips tips-line">
+            <i>1</i>Àñ°üÄÚÈÝ£ºÍ­Ç®*8888£¬Õ½·¨¾­Ñé*150
+        </p>
+        <p class="tips">
+            <i>2</i>ÁìÈ¡ËµÃ÷£ºÓÉÓÚiOS½ûÖ¹Ê¹ÓÃÀñ°ü¼¤»îÂë£¬´ËÀñ°ü½öÏÞ°²×¿ÓÃ»§Ê¹ÓÃ£¬ÇëÖ±½ÓÔÚÓÎÏ·ÄÚ¼¤»î¡£
+        </p>
+    </div>
+    <a href="javascript:;" class="pop-close"></a>
+</div>
+
+<!-- Ô¤Ô¼µ¯²ã-->
+<div class="pop_book">
+    <div class="pop_content">
+        <!-- Ô¤Ô¼ -->
+        <div class="popcontentone">
+
+                <div class="booklogo"></div>
+
+
+                    <span>ÇëÑ¡ÔñÏµÍ³</span>
+                    <div class="device1 device_select" data="device1"></div>
+                    <div class="device2 device_select" data="device2"></div>
+                    <div style="display:none">
+                        <input type="radio" name="device" value="ios" id="device2">
+                        <input type="radio" name="device" value="android" id="device1">
+                    </div>
+<!--                                <div class="device1 device_select" data="device1"></div>
+                    <div class="device2 device_select current" data="device2"></div>
+                    <div style="display:none">
+                        <input type="radio" checked="checked" name="device" value="ios" id="device2">
+                        <input type="radio" name="device" value="android" id="device1">
+                    </div> -->
+
+                    <input class="phone" name="txtMobile" id="txtMobile" type="text" maxlength="11" value="ÇëÊäÈëÄúµÄÊÖ»úºÅÔ¤Ô¼" onfocus="this.value=this.value.replace(/\D/g,'')" onafterpaste="this.value=this.value.replace(/\D/g,'')">
+
+                <a class="submit"></a>
+
+        </div>
+        <!-- ÌîÐ´ÎÊ¾í -->
+
+        <div class="pop_slide" style="display:none">
+            <!-- µÚÒ»¸öÎÊÌâ -->
+            <div class="popcontenttwo">
+
+                <div class="question" data-index="0">
+                        <p>1.¡¶ÂÊÍÁÖ®±õ¡·Õâ¿îÓÎÏ·×îÎüÒýÄãµÄµØ·½ÊÇÊ²Ã´£¿</p>
+                        <label><input type="checkbox" name="question_3122" value="11069"><span>¿´¼ûÈý¹úÌâ²ÄÀàÐÍµÄÓÎÏ·¶¼»á³¢ÊÔÌåÑé</span></label><br>
+                        <label><input type="checkbox" name="question_3122" value="11070"><span>Ï²»¶SLG²ßÂÔÀàÓÎÏ·</span></label><br>
+                        <label><input type="checkbox" name="question_3122" value="11071"><span>Ï²»¶¹úÕ½ÀàÓÎÏ·</span></label><br>
+                        <label><input type="checkbox" name="question_3122" value="11072"><span>Èý¹ú´óÊÀ½ç£º¶þ°ÙÍò¸ñ´óÊÀ½ç£¬ÎÞ½ç´óµØÍ¼£¬Íò³Ç´ó»ìÕ½</span></label><br>
+                        <label><input type="checkbox" name="question_3122" value="11073"><span>¾üÕþ´óÕ½ÂÔ£º¾üÕþ´óÂÔ¾öÊ¤Ç§Àï£»Ä±¹úÕß, ºÎÐëÏÝÕó³å·æ£¿</span></label><br>
+                        <label><input type="checkbox" name="question_3122" value="11074"><span>Ãû½«´óÍ³Ë§£ºÊý°ÙÈý¹úÃû½« £¬ ×ÔÓÉ½¨¾ü £¬¶àÎ¬Éî¶ÈÑø³É</span></label><br>
+                        <label><input type="checkbox" name="question_3122" value="11075"><span>Ò°ÐÄ´óÁªÃË£ººÏ×ÝÁ¬ºá£¬Ô¶½»½ü¹¥£»¹¥³ÇÂÔµØ£¬ÕæÈË¶Ô¿¹</span></label><br>
+                </div>
+
+            </div>
+            <!-- µÚ¶þ Èý¸öÎÊÌâ -->
+            <div class="popcontentthree">
+                <div class="question" data-index="1">
+                        <p>2.ÄãµÄÐÔ±ðÊÇ£º¡¾µ¥Ñ¡¡¿</p>
+                        <label><input type="radio" name="question_3123" value="11076"><span>ÄÐ</span> </label><br>
+                        <label><input type="radio" name="question_3123" value="11077"><span>Å®</span></label><br>
+                </div>
+                <div class="question" data-index="2">
+                        <p>3.ÄãµÄÄêÁäÊÇ£º¡¾µ¥Ñ¡¡¿</p>
+                        <label><input type="radio" name="question_3124" value="11078"><span>18Ëê¼°ÒÔÏÂ</span></label><br>
+                        <label><input type="radio" name="question_3124" value="11079"><span>19£­24Ëê</span></label><br>
+                        <label><input type="radio" name="question_3124" value="11080"><span>25£­29Ëê</span></label><br>
+                        <label><input type="radio" name="question_3124" value="11081"><span>30¼°ÒÔÉÏ</span></label><br>
+                </div>
+
+
+            </div>
+            <!-- µÚËÄ¸öÎÊÌâ -->
+            <div class="popcontentfour">
+                <div class="question" data-index="3">
+                        <p>4.ÄãµÄÖ°ÒµÊÇ£º¡¾µ¥Ñ¡¡¿</p>
+                        <label><input type="radio" name="question_3125" value="11082"><span>Ë½ÓªÆóÒµÖ÷/×ÔÓÉÖ°ÒµÕß£¨¸öÌå»§/Ð¡ÉÌ··/×ÔÓÉÉãÓ°Ê¦/ÒÕÊõ¼ÒµÈ£©</span></label><br>
+                        <label><input type="radio" name="question_3125" value="11083"><span>ÉÏ°à×å£¨¹«Ë¾/ÆóÒµ/ÊÂÒµµ¥Î»ÉÏ°à£©</span></label><br>
+                        <label><input type="radio" name="question_3125" value="11084"><span>´ò¹¤×å£¨¹¤³§¹¤ÈË£¬·þÎñÐÐÒµ·þÎñÔ±µÈ£©</span></label><br>
+                        <label><input type="radio" name="question_3125" value="11085"><span>ÖÐÐ¡Ñ§Éú£¨º¬³õÖÐ/¸ßÖÐ/Ö°¸ßµÈ£©</span></label><br>
+                        <label><input type="radio" name="question_3125" value="11086"><span> ´óÑ§Éú£¨º¬´ó×¨/±¾¿Æ/Ë¶Ê¿µÈ£©</span></label><br>
+                        <label><input type="radio" name="question_3125" value="11087"><span>Áã¹¤/É¢¹¤/´ýÒµÈËÔ±</span></label><br>
+                        <label><input type="radio" name="question_3125" value="11088"><span>ÆäËû</span></label><br>
+                </div>
+
+            </div>
+            <!-- µÚÎå¸öÎÊÌâ -->
+            <div class="popcontentfive">
+                <div class="question" data-index="4">
+                    <p>5.×î½üÄãÖ÷ÒªÔÚÍæµÄÊÖ»úÓÎÏ·ÀàÐÍÓÐÄÄÐ©ÄØ£¿¡¾¿É¸´Ñ¡¡¿</p>
+                        <label><input type="checkbox" name="question_3126" value="11089"><span>Õ½Õù²ßÂÔÀà£¨ÈçÆßÐÛÕù°Ô¡¢¹¥³ÇÂÔµØ¡¢COC²¿ÂäÕ½ÕùµÈ£©</span></label><br>
+                        <label><input type="checkbox" name="question_3126" value="11090"><span>¿¨ÅÆÀà£¨Èçµ¶Ëþ´«Ææ¡¢ÉÙÄêÈý¹úÖ¾µÈ£©</span></label><br>
+                        <label><input type="checkbox" name="question_3126" value="11091"><span>½ÇÉ«°çÑÝÀà£¨ÈçÃÎ»ÃÎ÷ÓÎ¡¢ÉñµñÏÀÂÂ¡¢È«ÃñÆæ¼£µÈ£©</span></label><br>
+                        <label><input type="checkbox" name="question_3126" value="11091"><span>¶¯×÷Àà£¨ÂÒ¶·Î÷ÓÎ¡¢Èý¹úÖ®ÈÐµÈ£©</span></label><br>
+                        <label><input type="checkbox" name="question_3126" value="11093"><span> Ä£Äâ¾­ÓªÀà£¨ÈçHayDay¿¨Í¨Å©³¡¡¢Ä£Äâ³ÇÊÐµÈ£©</span></label><br>
+                        <label><input type="checkbox" name="question_3126" value="11094"><span>ÅÜ¿á/Ëþ·À/Ïû³ýÀà£¨ÈçÌìÌì¿áÅÜ¡¢Ö²Îï´óÕ½½©Ê¬¡¢ÌìÌì°®Ïû³ýµÈ£©</span></label><br>
+                        <label><input type="checkbox" name="question_3126" value="11095"><span>ÆåÅÆ/½âÃÕ/ÒæÖÇÀà£¨ÈçQQ¶·µØÖ÷¡¢ÃÜÊÒÌÓÍÑ¡¢öùÓãÐ¡ÍçÆ¤°®Ï´Ôè¡¢2048µÈ£©</span></label><br>
+                        <label><input type="checkbox" name="question_3126" value="11096"><span>ÆäËû</span></label><br>
+                </div>
+
+            </div>
+            <!-- Ô¤Ô¼³É¹¦ -->
+            <div class="popcontentsix">
+                <div class="seal"></div>
+                <a class="done"></a>
+                <iframe src="" class="vote_iframe" style="display: none;"></iframe>
+            </div>
+        </div>
+
+        <div class="progress_bar" style="display:none">
+            <em class="line1 line lineon"></em>
+            <em class="line2 line"></em>
+            <em class="line3 line"></em>
+            <em class="line4 line"></em>
+            <em class="line5 line"></em>
+            <em class="line6 line"></em>
+            <div class="progress block1 progresson"><i></i><span>µÚÒ»Ìâ</span></div>
+            <div class="progress block2"><i></i><span>µÚ¶þ¡¢ÈýÌâ</span></div>
+            <div class="progress block3"><i></i><span>µÚËÄÌâ</span></div>
+            <div class="progress block4"><i></i><span>µÚÎåÌâ</span></div>
+            <div class="progress block5"><i></i><span>Ìá½»ÎÊ¾í</span></div>
+        </div>
+        <!-- ·ÖÏíÓÐ½± -->
+        <div class="popcontentseven" style="display:none">
+            <h1>¹§Ï²ÎáÍõ¿ª¹ú³É¹¦</h1>
+            <h2>ÏÖÔÚ¾Í²¼¸æÌìÏÂÕÐÏÍÄÉ½«£¬Á¢¼´ÁìÈ¡½¨¹ú»ù½ð£º</h2>
+            <div class="gift">
+                <div class="giftblock"><img src="https://stzb.res.netease.com/pc/gw/20180601170149//img/codemark_85a3449.jpg" style="margin-left:10px;" alt="ÂÊÍÁÖ®±õ¹«ÖÚºÅ"><p style="margin-top:-5px;">É¨Ò»É¨<br>¼Ó¹«ÖÚºÅÓ®´ó½±</p></div>
+                <div class="giftblock"><img src="https://stzb.res.netease.com/pc/gw/20180601170149//img/pingguobiao_c066d54.png" style="width:170px"><p>iWatch</p></div>
+                <div class="giftblock"><img src="https://stzb.res.netease.com/pc/gw/20180601170149//img/jingdonggou_b53da7b.png" style="width:170px;top:10px"><p>°ÙÔª¾©¶«¹ºÎï¿¨</p></div>
+                <div class="giftblock"><img src="https://stzb.res.netease.com/pc/gw/20180601170149//img/libao_99fa60f.png" style="width:160px;top:-10px" alt="ÂÊÍÁÖ®±õÓÎÏ·Àñ°ü"><p>ÓÎÏ·´óÀñ°ü</p></div>
+
+
+
+            </div>
+            <div id="popshare"></div>
+        </div>
+
+    </div>
+    <a class="aLeft" style="display:none"></a>
+    <a class="aRight" style="display:none"></a>
+    <a class="aNext" style="display:none"></a>
+    <a class="aCloseQ"></a>
+</div>
+<div id="NIE-overlayer-book"></div>
+<div class="topoverlayer"></div>
+
+<!--This is Git Project From STZB/stzb-gw-20180529(9064)-->
+    <!-- jquery mix NIE (×îÐÂ°æ±¾£©-->
+    <script charset="gb2312" src="https://nie.res.netease.com/comm/js/jquery(mixNIE).1.11.js"></script>
+    <!--¼ÓÔØjs-->
+    <script type="text/javascript" src="https://nie.res.netease.com/comm/js/nie/ref/jquery.superslide.js"></script>
+ <script charset="gb2312" type="text/javascript" data-fixed="true" src="https://stzb.res.netease.com/pc/gw/20180601170149//js/common/share_e0f8297.js"></script>
+ <script charset="gb2312" type="text/javascript" data-fixed="true" src="https://stzb.res.netease.com/pc/gw/20180601170149//js/common/common_3cdf209.js"></script>
+  <script charset="gb2312" type="text/javascript" data-fixed="true" src="https://stzb.res.netease.com/pc/gw/20180601170149//js/app/sidebar_3fac666.js"></script>
+  <script charset="gb2312" type="text/javascript" data-fixed="true" src="https://stzb.res.netease.com/pc/gw/20180601170149//js/app/list_88721aa.js"></script>
+<!--This is Git Project From STZB/stzb-gw-20180529(9064)-->
+    <script type="text/javascript">
+nie.config.copyRight.setWhite();
+</script>
+</body>
+
+</html>
+<!--stamp:deeea8d7-ca18-48e0-9701-cea0037d3d6a,tplId:20699,pageId:17183,tplName:15v1PCÐÂÎÅÁÐ±íÒ³(velocityÓïÑÔ)-->
+[2019-05-07 14:20:56,450] 772-INFO:-------------------------------------------------------
+GET https://pg.qq.com/gicp/news/101/2/2003/1.html
+request [2019-05-07 14:20:56.45]:
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240
+(Request-Line): GET /htm/novel1/27695.htm HTTP/1.1
+Accept-Language: zh-CN
+
+None
+=====================================
+
+response [2019-05-07 14:20:56.45]:
+200 OK
+Server: NWSs
+Date: Tue, 07 May 2019 06:21:01 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=60
+Expires: Tue, 07 May 2019 06:22:00 GMT
+Last-Modified: Tue, 07 May 2019 06:20:00 GMT
+Content-Encoding: gzip
+X-NWS-LOG-UUID: 77b0df78-5f35-4341-8905-bbf2cb781cb6
+X-Cache-Lookup: Hit From Upstream
+
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+	<meta charset="gbk">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="robots" content="all">
+<meta name="author" content="Tencent-CP">
+<meta name="Copyright" content="Tencent">
+<meta name="Description" content="ÌÚÑ¶¹â×Ó¹¤×÷ÊÒÈº×ÔÑÐ´ó×÷£¬Õý°æÕ½¶·ÌØÑµÊÖÓÎ ¡¶¾øµØÇóÉú£º´Ì¼¤Õ½³¡¡·¡£Ðé»Ã4ÒýÇæÑÐ·¢£¬´ÎÊÀ´úÍêÃÀ»­ÖÊ£¬Õðº³ÊÓÌý¸ÐÊÜ£»8000Mx8000MÕý°æÊµ¾°µØÍ¼£¬´òÔìÖ¸¼âÕ½³¡£¬È«·½Ãæ×ÔÓÉÊ©Õ¹Õ½Êõ£»°ÙÈËÍ¬³¡¾º¼¼£¬ÕæÊµµ¯µÀ£¬ÍêÃÀµÄÉä»÷ÊÖ¸Ð£»ºÃÓÑÒ»¼ü×é¶Ó£¬ÓïÒô¿ªºÚ£»ÌÚÑ¶¹â×Ó¹¤×÷ÊÒÈº³¬¹ý200ÈËÍÅ¶ÓÑÐ·¢£¬¸øÄú´øÀ´Ò»³¡´Ì¼¤µÄ¾º¼¼ÌåÑé" />
+<meta name="Keywords" content="¾øµØÇóÉú,¾øµØÇóÉú´Ì¼¤Õ½³¡,¾øµØÇóÉúÊÖÓÎ,´Ì¼¤Õ½³¡,¾øµØÇóÉúÊÖÓÎÏÂÔØ,¾øµØÇóÉú´Ì¼¤Õ½³¡ÏÂÔØ,¾øµØÇóÉú¹ú·þ,´Ì¼¤Õ½³¡ÏÂÔØ,¾øµØÇóÉú ´Ì¼¤Õ½³¡,¾øµØÇóÉúÏÂÔØ,¾òµØÇóÉú´Ì¼¤Õ½³¡,¾øµØÇóÉú´óÌÓÉ±,ÌÚÑ¶¾øµØÇóÉúÊÖÓÎ"
+/>
+    <title>¹«¸æ-Õý°æÕ½¶·ÌØÑµÊÖÓÎ¡¶¾øµØÇóÉú£º´Ì¼¤Õ½³¡¡·´Ì¼¤¿ª²â£¬Á¢¼´¼ÓÈë£¡-¾øµØÇóÉú´Ì¼¤Õ½³¡¹ÙÍøÍøÕ¾-ÌÚÑ¶ÓÎÏ· </title>
+    <script>var _gcatName = "¹«¸æ";</script>
+    <link rel="stylesheet" href="//game.gtimg.cn/images/cjm/web201801/css/listpage.css">
+    <link rel="stylesheet" href="//game.gtimg.cn/images/cjm/web201801/public.css">
+</head>
+
+<body>
+    <div class="wrap">
+        <!--¹«¹²top-->
+        
+<div class="top-nav">
+    <!--[if lte IE 8]><p class="browser-tips">ÄúµÄä¯ÀÀÆ÷°æ±¾¹ýµÍ£¬ÇëÉý¼¶ä¯ÀÀÆ÷»ñµÃ¸üºÃµÄÌåÑé<p><![endif]-->
+    <div class="container">
+        <div class="top-title">
+            <a href="//pg.qq.com/main.shtml"  onclick="PTTSendClick('hdtopnav','hdlogo','Í·²¿µ¼º½Á´½Ó');">
+                <img src="//game.gtimg.cn/images/cjm/web201801/top-tag.png" alt="logo" class="tag" width="125" height="125" >
+            </a>
+            <h1>¾øµØÇóÉú£º´Ì¼¤Õ½³¡<span>Õý°æÕ½¶·ÌØÑµÊÖÓÎ</span></h1>
+        </div>
+        <div class="nav">
+            <a href="//pg.qq.com/main.shtml"  onclick="PTTSendClick('hdtopnav','navlink1','Í·²¿µ¼º½Á´½Ó');" target="_blank">¹ÙÍøÊ×Ò³ <span>HOME</span> </a>
+            <div class="nav_yx">
+                            ÓÎÏ·×ÊÁÏ
+                            <span>GAME INFO</span>
+                            <ul class="subnav">
+                                <li>
+                                    <a href="//pg.qq.com/web201801/fresh.shtml" onclick="PTTSendClick('hdtopnav','navlink21','Í·²¿µ¼º½Á´½Ó');">
+                                        ÐÂÊÖÒýµ¼
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="//pg.qq.com/web201801/ziliao_list.shtml" onclick="PTTSendClick('hdtopnav','navlink22','Í·²¿µ¼º½Á´½Ó');">
+                                        <i><img src="//game.gtimg.cn/images/cjm/web201801/hot.png" alt="" icon_new></i>ÎäÆ÷Åä¼þ
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="//pg.qq.com/zlkdatasys/a20180420verlistpc/ztsy.shtml" onclick="PTTSendClick('hdtopnav','navlink23','Í·²¿µ¼º½Á´½Ó');">
+                                        <i><img src="//game.gtimg.cn/images/cjm/web201801/new.png" alt="" class="icon_new"></i>°æ±¾¸üÐÂ
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="nav_yx">
+                            ÄÚÈÝÖÐÐÄ
+                            <span>RAIDERS</span>
+                            <ul class="subnav">
+                                <li>
+                                    <a href="//pg.qq.com/gicp/news/101/2/2002/1.html" onclick="PTTSendClick('hdtopnav','navlink31','Í·²¿µ¼º½Á´½Ó');">
+                                        ÐÂÎÅ×ÊÑ¶
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="//pg.qq.com/gicp/news/103/2/1999/1.html" onclick="PTTSendClick('hdtopnav','navlink32','Í·²¿µ¼º½Á´½Ó');">
+                                        ¹¥ÂÔÖÐÐÄ
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="//pg.qq.com/gicp/video/109/2/2000/1.html" onclick="PTTSendClick('hdtopnav','navlink33','Í·²¿µ¼º½Á´½Ó');">
+                                        ÊÓÆµÖÐÐÄ
+                                    </a>
+                                </li>
+                                </li>
+                                <li>
+                                    <a href="//pg.qq.com/gicp/news/122/2/4049/1.html" onclick="PTTSendClick('hdtopnav','navlink34','Í·²¿µ¼º½Á´½Ó');">
+                                        Í¬ÈË×¨Çø
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="nav_yx">
+                            ÈüÊÂÖÐÐÄ
+                            <span>MATCH</span>
+                            <ul class="subnav">
+                                <li>
+                                    <a href="//pg.qq.com/match/index.htm" onclick="PTTSendClick('hdtopnav','navlink41','Í·²¿µ¼º½Á´½Ó');">
+                                        ÈüÊÂÊ×Ò³
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="//tga.qq.com/match/2018/pc_game.html?game=pg&tga=1" onclick="PTTSendClick('hdtopnav','navlink42','Í·²¿µ¼º½Á´½Ó');">
+                                        TGA
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="//pg.qq.com/cp/a20180323city/index.shtml" onclick="PTTSendClick('hdtopnav','navlink43','Í·²¿µ¼º½Á´½Ó');">
+                                        ³ÇÊÐÈü
+                                    </a>
+                                </li>
+                                </li>
+                                <li>
+                                    <a href="//pg.qq.com/cp/a20180326college/index.shtml" onclick="PTTSendClick('hdtopnav','navlink44','Í·²¿µ¼º½Á´½Ó');">
+                                        Ð£Ô°Èü
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                      <a href="//pg.qq.com/act/a20180309zbhd/index.html"  onclick="PTTSendClick('hdtopnav','navlink5','Í·²¿µ¼º½Á´½Ó');" target="_blank">Ö±²¥ÖÐÐÄ<span>LIVE</span> </a>
+                       <div class="nav_yx sjzx">
+                            Èü¼¾×ÊÑ¶
+                            <span>SEASON</span>
+                            <ul class="subnav">
+                               <li>
+                                    <a href="//pg.qq.com/cp/a20190220s6sjzt/index.shtml " onclick="PTTSendClick('hdtopnav','navlink66','Í·²¿µ¼º½Á´½Ó');">
+                                        <i><img src="//game.gtimg.cn/images/cjm/web201801/new.png" alt="" class="icon_new"></i>S6Èü¼¾ 
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="//pg.qq.com/cp/a20190226s5sjhg/index.shtml " onclick="PTTSendClick('hdtopnav','navlink64','Í·²¿µ¼º½Á´½Ó');">
+                                        S5Èü¼¾ÈÙÓþÇ½
+                                    </a>
+                                </li>
+                              <li>
+                                    <a href="//pg.qq.com/cp/a20181203s4sjhg/index.shtml" onclick="PTTSendClick('hdtopnav','navlink64','Í·²¿µ¼º½Á´½Ó');">
+                                       S4Èü¼¾ÈÙÓþÇ½
+                                    </a>
+                                </li>
+																<li>
+                                    <a href="//pg.qq.com/cp/a20180918s3sjzt/index.shtml" onclick="PTTSendClick('hdtopnav','navlink65','Í·²¿µ¼º½Á´½Ó');">
+                                        S3Èü¼¾ÈÙÓþÇ½
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="//pg.qq.com/cp/a20180713s2sjzt/index.shtml" onclick="PTTSendClick('hdtopnav','navlink62','Í·²¿µ¼º½Á´½Ó');">
+                                        S2Èü¼¾ÈÙÓþÇ½
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="//pg.qq.com/cp/a20180419s1sjzt/index.shtml" onclick="PTTSendClick('hdtopnav','navlink63','Í·²¿µ¼º½Á´½Ó');">
+                                        S1Èü¼¾ÈÙÓþÇ½
+                                    </a>
+                                </li>
+                                </li>
+                                <!--<li>-->
+                                    <!--<a href="javascript:;" onclick="PTTSendClick('hdtopnav','navlink64','Í·²¿µ¼º½Á´½Ó');">-->
+                                        <!--¸ü¶àÈü¼¾-->
+                                    <!--</a>-->
+                                <!--</li>-->
+                            </ul>
+                        </div>
+                       <a href="javascript:"  onclick="PTTSendClick('hdtopnav','navlink7','Í·²¿µ¼º½Á´½Ó');"  target="_blank" id="playerLink" >ÉçÇøÂÛÌ³ <span>COMMUNITY</span>
+                <div class="tips-player" id="tipsPlayer">
+                    <ul>
+                        <li class="on">ÊÖQ²¿Âä</li>
+                        <li>Î¢ÐÅ¹«ÖÚºÅ</li>
+                        <li>Î¢ÐÅÈ¦×Ó</li>
+                        <li>¹Ù·½Î¢²©</li>
+                    </ul>
+                    <p class="tips-img1">
+                        <img src="//game.gtimg.cn/images/cjm/web201712/qrcode_sq.jpg" alt="ÊÖQ²¿Âä">
+                        <i class="ips-arrow"></i>
+                    </p>
+                    <p class="tips-img2">
+                        <img src="//game.gtimg.cn/images/cjm/web201712/qrcode_wxqz.jpg" alt="Î¢ÐÅ¹«ÖÚºÅ">
+                        <i class="ips-arrow"></i>
+                    </p>
+                    <P class="tips-img3">
+                        <img src="//game.gtimg.cn/images/cjm/web201712/qrcode_wx.jpg" alt="Î¢ÐÅÈ¦×Ó">
+                        <i class="ips-arrow"></i>
+                    </P>
+                    <P class="tips-img4">
+                        <img src="//game.gtimg.cn/images/cjm/web201712/qrcode_wb.jpg" alt="¹Ù·½Î¢²©">
+                        <i class="ips-arrow"></i>
+                    </P>
+                </div>
+            </a>
+          <!--   <a href="/match/"  onclick="PTTSendClick('hdtopnav','navlink2','Í·²¿µ¼º½Á´½Ó');"  target="_blank">ÈüÊÂÖÐÐÄ<span>MATCH</span> </a> -->
+            <!-- <a href="/gicp/news/101/2/1998/1.html"  onclick="PTTSendClick('hdtopnav','navlink2','Í·²¿µ¼º½Á´½Ó');"  target="_blank">ÐÂÎÅÖÐÐÄ<span>NEWS</span> </a> -->
+           <!--  <a href="/gicp/video/109/2/2000/1.html"  onclick="PTTSendClick('hdtopnav','navlink3','Í·²¿µ¼º½Á´½Ó');"  target="_blank">ÊÓÆµÖÐÐÄ<span>VIDEO</span> </a>
+            <a href="/act/a20180309zbhd/index.html"  onclick="PTTSendClick('hdtopnav','navlink4','Í·²¿µ¼º½Á´½Ó');"  target="_blank">Ö±²¥ÖÐÐÄ<span>LIVE</span> </a>
+            <a href="/gicp/news/103/2/1999/1.html"  onclick="PTTSendClick('hdtopnav','navlink5','Í·²¿µ¼º½Á´½Ó');"  target="_blank">¹¥ÂÔÖÐÐÄ<span>GAMETIPS</span> </a>
+            <div class="nav_yx">
+                ÓÎÏ·×ÊÁÏ
+                <span>DATA</span>
+                <ul class="subnav">
+                    <li>
+                        <a href="//pg.qq.com/web201801/ziliao_list.shtml" onclick="PTTSendClick('hdtopnav','navlink61','Í·²¿µ¼º½Á´½Ó');">
+                            ÎäÆ÷Åä¼þ
+                        </a>
+                    </li>
+                    <li>
+                        <a href="//pg.qq.com/zlkdatasys/a20180420verlistpc/ztsy.shtml" onclick="PTTSendClick('hdtopnav','navlink62','Í·²¿µ¼º½Á´½Ó');">
+                            °æ±¾¸üÐÂ
+                        </a>
+                    </li>
+                </ul>
+            </div> -->
+        </div>
+    </div>
+</div>
+<!--<style>-->
+    <!--.subnav{ width: 110px; }-->
+    <!--.nav_yx:hover .subnav{ margin-left: 7px; }-->
+    <!--.subnav li{position: relative;}-->
+    <!--.subnav li i{ position: absolute; left: 0; }-->
+    <!--.sjzx .subnav{width: 131px;}-->
+    <!--.sjzx.nav_yx:hover .subnav{margin-left: -1px}-->
+    <!--.icon_new{margin-bottom:1px}-->
+<!--</style>-->
+        <!--¹«¹²top e-->
+        <div class="listpage-head newsbg">
+            <div class="container">
+                <div class="listpage-head-main">
+                    <div class="tit">
+                        <h1 class="hid">ÐÂÎÅÖÐÐÄ</h1>
+                    </div>
+                    <div class="local">
+                        ÄúµÄÎ»ÖÃ£º
+                        <a href="/web201801/main.shtml">Ê×Ò³</a>&gt;
+                        <a href="/gicp/news/101/2/1998/1.html">ÐÂÎÅ¹«¸æ</a>
+                    </div>
+                </div>  
+            </div>
+        </div>
+        <div class="listpage-news-box" id="pageNewsBox">
+            <div class="list-page-center">
+                <div class="news-list ">
+                    <ul>
+                        <li id="cnv0">
+                            <a href="/gicp/news/101/2/1998/1.html" onclick="PTTSendClick('newsnav','link0','×îÐÂ');" title="×îÐÂ">×îÐÂ</a>
+                        </li>
+                        <li id="cnv1">
+                            <a href="/gicp/news/101/2/2002/1.html" onclick="PTTSendClick('newsnav','link1','ÐÂÎÅ');" title="ÐÂÎÅ">ÐÂÎÅ</a>
+                        </li>
+                        <li id="cnv2">
+                            <a href="/gicp/news/101/2/2003/1.html" onclick="PTTSendClick('newsnav','link2','¹«¸æ');" title="¹«¸æ">¹«¸æ</a>
+                        </li>
+                        <li id="cnv3">
+                            <a href="/gicp/news/101/2/2006/1.html" onclick="PTTSendClick('newsnav','link3','»î¶¯');" title="»î¶¯">»î¶¯</a>
+                        </li>
+                        <li id="cnv4">
+                            <a href="/gicp/news/101/2/2005/1.html" onclick="PTTSendClick('newsnav','link4','ÈüÊÂ');" title="ÈüÊÂ">ÈüÊÂ</a>
+                        </li>
+                        <li id="cnv5">
+                            <a href="/gicp/news/101/2/1999/1.html" onclick="PTTSendClick('newsnav','link5','¹¥ÂÔ');" title="¹¥ÂÔ">¹¥ÂÔ</a>
+                        </li>
+                    </ul>
+                    <script>
+                        var _gcnvData = { "ÐÂÎÅ": "cnv1", "¹«¸æ": "cnv2", "»î¶¯": "cnv3", "ÈüÊÂ": "cnv4", "¹¥ÂÔÖÐÐÄ": "cnv5" };
+                        if (_gcnvData[_gcatName]) { document.getElementById(_gcnvData[_gcatName]).className = "on"; } else { document.getElementById("cnv0").className = "on"; }
+                    </script>
+                </div>
+                <div class="news-detail">
+                    <ul>
+                                                    <li>
+                                <a href="/gicp/news/102/6637780.html" onclick="sendclick('6637780','news','/gicp/news/102/6637780.html');PTTSendClick('news','link0','¹¥ÂÔÁ´½Ó');" target="_blank" title="Ê·ÉÏ×îÇ¿µÄ´Ì¼¤Õ½³¡Ã÷ÐÇÕóÈÝ£¡´¥ÊÖÐÇÁªÈüº£Ñ¡×éÕðº³À´Ï®">
+                                    Ê·ÉÏ×îÇ¿µÄ´Ì¼¤Õ½³¡Ã÷ÐÇÕóÈÝ£¡´¥ÊÖÐÇÁªÈüº£Ñ¡×éÕðº³À´Ï®
+                                </a>
+                                <span>
+                                    2019-04-26
+                                </span>
+                            </li>
+                                                        <li>
+                                <a href="/gicp/news/102/6600911.html" onclick="sendclick('6600911','news','/gicp/news/102/6600911.html');PTTSendClick('news','link1','¹¥ÂÔÁ´½Ó');" target="_blank" title="¡¶´Ì¼¤Õ½³¡¡·¡°×Ô¶¯¶¥ºÅ¡±´¦·£¹«¸æ">
+                                    ¡¶´Ì¼¤Õ½³¡¡·¡°×Ô¶¯¶¥ºÅ¡±´¦·£¹«¸æ
+                                </a>
+                                <span>
+                                    2019-04-13
+                                </span>
+                            </li>
+                                                        <li>
+                                <a href="/gicp/news/102/6600643.html" onclick="sendclick('6600643','news','/gicp/news/102/6600643.html');PTTSendClick('news','link2','¹¥ÂÔÁ´½Ó');" target="_blank" title="´Ì¼¤Õ½³¡½âËµÕÐÄ¼  ¾«Ó¢½âËµÑµÁ·Óª³ÏÑûÄãµÄ¼ÓÈë£¡">
+                                    ´Ì¼¤Õ½³¡½âËµÕÐÄ¼  ¾«Ó¢½âËµÑµÁ·Óª³ÏÑûÄãµÄ¼ÓÈë£¡
+                                </a>
+                                <span>
+                                    2019-04-12
+                                </span>
+                            </li>
+                                                        <li>
+                                <a href="/gicp/news/102/6595391.html" onclick="sendclick('6595391','news','/gicp/news/102/6595391.html');PTTSendClick('news','link3','¹¥ÂÔÁ´½Ó');" target="_blank" title="¡¶¾øµØÇóÉú ´Ì¼¤Õ½³¡¡·´ºÈÕÌØÑµ°æ±¾³£¼ûÎÊÌâ½â´ð">
+                                    ¡¶¾øµØÇóÉú ´Ì¼¤Õ½³¡¡·´ºÈÕÌØÑµ°æ±¾³£¼ûÎÊÌâ½â´ð
+                                </a>
+                                <span>
+                                    2019-03-26
+                                </span>
+                            </li>
+                                                        <li>
+                                <a href="/gicp/news/102/6595059.html" onclick="sendclick('6595059','news','/gicp/news/102/6595059.html');PTTSendClick('news','link4','¹¥ÂÔÁ´½Ó');" target="_blank" title="¾øµØÇóÉú´Ì¼¤Õ½³¡´ºÈÕÌØÑµ°æ±¾¸üÐÂ¹«¸æ">
+                                    ¾øµØÇóÉú´Ì¼¤Õ½³¡´ºÈÕÌØÑµ°æ±¾¸üÐÂ¹«¸æ
+                                </a>
+                                <span>
+                                    2019-03-25
+                                </span>
+                            </li>
+                                                        <li>
+                                <a href="/gicp/news/102/6588221.html" onclick="sendclick('6588221','news','/gicp/news/102/6588221.html');PTTSendClick('news','link5','¹¥ÂÔÁ´½Ó');" target="_blank" title="¡¶´Ì¼¤Õ½³¡¡·¡°×ø¹Ò³µ¡±´¦·£Éý¼¶¹«¸æ">
+                                    ¡¶´Ì¼¤Õ½³¡¡·¡°×ø¹Ò³µ¡±´¦·£Éý¼¶¹«¸æ
+                                </a>
+                                <span>
+                                    2019-03-12
+                                </span>
+                            </li>
+                                                        <li>
+                                <a href="/gicp/news/102/6588220.html" onclick="sendclick('6588220','news','/gicp/news/102/6588220.html');PTTSendClick('news','link6','¹¥ÂÔÁ´½Ó');" target="_blank" title="ÌÚÑ¶ÕÐÆ¸ ´Ì¼¤Õ½³¡¿Í·þ×¨Ô±">
+                                    ÌÚÑ¶ÕÐÆ¸ ´Ì¼¤Õ½³¡¿Í·þ×¨Ô±
+                                </a>
+                                <span>
+                                    2019-03-12
+                                </span>
+                            </li>
+                                                        <li>
+                                <a href="/gicp/news/102/6411680.html" onclick="sendclick('6411680','news','/gicp/news/102/6411680.html');PTTSendClick('news','link7','¹¥ÂÔÁ´½Ó');" target="_blank" title="´ò»÷Íâ¹Ò¹«¸æ£¨4ÔÂ19ÈÕ¸üÐÂ·âºÅÃûµ¥£©">
+                                    ´ò»÷Íâ¹Ò¹«¸æ£¨4ÔÂ19ÈÕ¸üÐÂ·âºÅÃûµ¥£©
+                                </a>
+                                <span>
+                                    2019-02-20
+                                </span>
+                            </li>
+                                                        <li>
+                                <a href="/gicp/news/102/6571535.html" onclick="sendclick('6571535','news','/gicp/news/102/6571535.html');PTTSendClick('news','link8','¹¥ÂÔÁ´½Ó');" target="_blank" title="¡¶¾øµØÇóÉú£º´Ì¼¤Õ½³¡¡·S6Èü¼¾ÇÐ»»³£¼ûÎÊÌâ½â´ð">
+                                    ¡¶¾øµØÇóÉú£º´Ì¼¤Õ½³¡¡·S6Èü¼¾ÇÐ»»³£¼ûÎÊÌâ½â´ð
+                                </a>
+                                <span>
+                                    2019-02-19
+                                </span>
+                            </li>
+                                                        <li>
+                                <a href="/gicp/news/102/6571152.html" onclick="sendclick('6571152','news','/gicp/news/102/6571152.html');PTTSendClick('news','link9','¹¥ÂÔÁ´½Ó');" target="_blank" title="¡¶¾øµØÇóÉú£º´Ì¼¤Õ½³¡¡·S5Èü¼¾½áÊøÔ¤¸æ">
+                                    ¡¶¾øµØÇóÉú£º´Ì¼¤Õ½³¡¡·S5Èü¼¾½áÊøÔ¤¸æ
+                                </a>
+                                <span>
+                                    2019-02-18
+                                </span>
+                            </li>
+                                                        <li>
+                                <a href="/gicp/news/102/6570473.html" onclick="sendclick('6570473','news','/gicp/news/102/6570473.html');PTTSendClick('news','link10','¹¥ÂÔÁ´½Ó');" target="_blank" title="¡¶¾øµØÇóÉú ´Ì¼¤Õ½³¡¡·ÌåÑé·þµÚÁùÆÚ¿ªÆô">
+                                    ¡¶¾øµØÇóÉú ´Ì¼¤Õ½³¡¡·ÌåÑé·þµÚÁùÆÚ¿ªÆô
+                                </a>
+                                <span>
+                                    2019-02-15
+                                </span>
+                            </li>
+                                                        <li>
+                                <a href="/gicp/news/102/6561366.html" onclick="sendclick('6561366','news','/gicp/news/102/6561366.html');PTTSendClick('news','link11','¹¥ÂÔÁ´½Ó');" target="_blank" title="¡¶¾øµØÇóÉú ´Ì¼¤Õ½³¡¡·Ó­ÐÂ¿ñ»¶°æ±¾³£¼ûÎÊÌâ½â´ð">
+                                    ¡¶¾øµØÇóÉú ´Ì¼¤Õ½³¡¡·Ó­ÐÂ¿ñ»¶°æ±¾³£¼ûÎÊÌâ½â´ð
+                                </a>
+                                <span>
+                                    2019-01-14
+                                </span>
+                            </li>
+                                                        <li>
+                                <a href="/gicp/news/102/6561360.html" onclick="sendclick('6561360','news','/gicp/news/102/6561360.html');PTTSendClick('news','link12','¹¥ÂÔÁ´½Ó');" target="_blank" title="¡¶¾øµØÇóÉú ´Ì¼¤Õ½³¡¡·Ó­ÐÂ¿ñ»¶°æ±¾¸üÐÂ¹«¸æ">
+                                    ¡¶¾øµØÇóÉú ´Ì¼¤Õ½³¡¡·Ó­ÐÂ¿ñ»¶°æ±¾¸üÐÂ¹«¸æ
+                                </a>
+                                <span>
+                                    2019-01-14
+                                </span>
+                            </li>
+                                                        <li>
+                                <a href="/gicp/news/102/6556259.html" onclick="sendclick('6556259','news','/gicp/news/102/6556259.html');PTTSendClick('news','link13','¹¥ÂÔÁ´½Ó');" target="_blank" title="¡¶¾øµØÇóÉú£º´Ì¼¤Õ½³¡¡·ÌåÑé·þµÚÎåÆÚ¿ªÆô">
+                                    ¡¶¾øµØÇóÉú£º´Ì¼¤Õ½³¡¡·ÌåÑé·þµÚÎåÆÚ¿ªÆô
+                                </a>
+                                <span>
+                                    2018-12-29
+                                </span>
+                            </li>
+                                                        <li>
+                                <a href="/gicp/news/102/6551231.html" onclick="sendclick('6551231','news','/gicp/news/102/6551231.html');PTTSendClick('news','link14','¹¥ÂÔÁ´½Ó');" target="_blank" title="¡¶¾øµØÇóÉú ´Ì¼¤Õ½³¡¡·±ùÑ©¿ñ»¶°æ±¾³£¼ûÎÊÌâ½â´ð">
+                                    ¡¶¾øµØÇóÉú ´Ì¼¤Õ½³¡¡·±ùÑ©¿ñ»¶°æ±¾³£¼ûÎÊÌâ½â´ð
+                                </a>
+                                <span>
+                                    2018-12-17
+                                </span>
+                            </li>
+                                                </ul>
+                    <div class="page-num" id="pagebox">
+                                                                                                                 <a href="/gicp/news/101/2/2003/2.html">ÏÂÒ»Ò³</a>
+                                                                         </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-box foot">
+    <div class="footer-top">
+        <div class="container">
+            <div class="foot-code">
+                <ul class="c">
+                    <li>
+                        <img src="//game.gtimg.cn/images/cjm/web201801/code1.png" alt="ÊÖQ²¿Âä¶þÎ¬Âë" width="174" height="174">
+                        <p>ÊÖQ²¿Âä¶þÎ¬Âë</p>
+                    </li>
+                    <li>
+                        <img src="//game.gtimg.cn/images/cjm/web201801/code2.png" alt="Î¢ÐÅÈ¦×Ó¶þÎ¬Âë" width="174" height="174">
+                        <p>Î¢ÐÅÈ¦×Ó¶þÎ¬Âë</p>
+                    </li>
+                    <li>
+                        <img src="//game.gtimg.cn/images/cjm/web201801/code3.png" alt="Î¢ÐÅ¹«ÖÚºÅ¶þÎ¬Âë" width="174" height="174">
+                        <p>Î¢ÐÅ¹«ÖÚºÅ¶þÎ¬Âë</p>
+                    </li>
+                    <li class="last">
+                        <img src="//game.gtimg.cn/images/cjm/web201801/code4.png" alt="Î¢²©¶þÎ¬Âë" width="174" height="174">
+                        <p>Î¢²©¶þÎ¬Âë</p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div> 
+    <div id="gfooter" class="foot-dark" ams="" age="16" dark="1" ieg-logo="1">
+        <a href="javascript" title="logo1" class="foot_left logo1">
+            <img src="//game.gtimg.cn/images/cjm/web201712/footer-logo-gz.png" alt="">
+        </a>
+        <p class="copyright_txt">µÖÖÆ²»Á¼ÓÎÏ·£¬¾Ü¾øµÁ°æÓÎÏ·¡£×¢Òâ×ÔÎÒ±£»¤£¬½÷·ÀÊÜÆ­ÉÏµ±¡£ÊÊ¶ÈÓÎÏ·ÒæÄÔ£¬³ÁÃÔÓÎÏ·ÉËÉí¡£ºÏÀí°²ÅÅÊ±¼ä£¬ÏíÊÜ½¡¿µÉú»î¡£</p>
+    </div>
+    <script src="//game.gtimg.cn/images/js/2018foot/foot.js"></script>
+</div>
+
+    <script src="//ossweb-img.qq.com/images/js/title.js"></script>
+    <script src="//ossweb-img.qq.com/images/js/PTT/ping_tcss_tgideas_https_min.js"></script>
+    <script src="//ossweb-img.qq.com/images/js/jquery/jquery-1.11.3.min.js"></script>
+    <script src="//pg.qq.com/web201712/js/listpage.js"></script>
+    <script>
+        //´Ë¶Î´úÂë²»ÄÜ·Åµ½ÍâÁ´JSÖÐ£¬²»ÒªÉÃ×ÔÔö¼Ó»òÕßÉ¾¸Ä¶ÔÏóÊôÐÔ
+        var setSite = { //ÉèÖÃÍøÕ¾ÊôÐÔ
+            siteType: "os", //±ØÌîÏî:¹ÙÍøÌîÐ´"os"£¬»î¶¯×¨ÌâÌîÐ´»î¶¯Ä¿Â¼Ãû³ÆÈç£º"a20160701xxx"£¬
+            pageType: "newslist", //±ØÌîÏî:±¾Ò³ÃæµÄ¶¨Î»£»°´ÕÕÒ³Ãæº¬ÒåÌîÐ´ÀýÈçmain||list||detail||download||share||page1||pageN
+            pageName: "Ê×Ò³", //±ØÌîÏî:Ò³ÃæÖÐÎÄÃû
+            osact: 0, //Ñ¡ÌîÏî:ÊÇ·ñÊÇ¹ÙÍø×¨Ìâ(ÔÚ¹ÙÍøÔËÓªµÄ×¨Ìâ)boolean£»Ä¬ÈÏÊÇ0£»¿ÉÒÔÔÚÁ´½ÓÉÏ¼ÓÈë²ÎÊýosact=1À´Áé»îÉèÖÃ
+            ingame: 0, //Ñ¡ÌîÏî:ÊÇ·ñÍ¶·ÅÔÚÓÎÏ·APPÄÚboolean£»Ä¬ÈÏÊÇ0£»¿ÉÒÔÔÚÁ´½ÓÉÏ¼ÓÈë²ÎÊýingame=1À´Áé»îÉèÖÃ
+            stayTime: 0 //Ñ¡ÌîÏî:ÊÇ·ñÐèÒªÍ³¼ÆÍ£ÁôÊ±³¤boolean£»Ä¬ÈÏÊÇ0
+        }
+        if (typeof (pgvMain) == 'function') pgvMain();//Ç§Íò²»ÄÜÍü¼Ç£¡
+    </script>
+    <script src="//ossweb-img.qq.com/images/js/eas/eas.js?v=20151229"></script>
+    <script src="//gicp.qq.com/wmp/v5/static/js/gicprp.js"></script>
+    <script>
+            //ÆØ¹â
+        if(typeof(Gicprp.send) == 'function'){
+            Gicprp.send({
+                'action_type':'pop',
+                'iuName':'web_pc',
+                'contentId':'6637780|6600911|6600643|6595391|6595059|6588221|6588220|6411680|6571535|6571152|6570473|6561366|6561360|6556259|6551231',
+                'serviceType':'74',
+                'contentType':'news',
+                'url':'%2Fgicp%2Fnews%2F102%2F6637780.html|%2Fgicp%2Fnews%2F102%2F6600911.html|%2Fgicp%2Fnews%2F102%2F6600643.html|%2Fgicp%2Fnews%2F102%2F6595391.html|%2Fgicp%2Fnews%2F102%2F6595059.html|%2Fgicp%2Fnews%2F102%2F6588221.html|%2Fgicp%2Fnews%2F102%2F6588220.html|%2Fgicp%2Fnews%2F102%2F6411680.html|%2Fgicp%2Fnews%2F102%2F6571535.html|%2Fgicp%2Fnews%2F102%2F6571152.html|%2Fgicp%2Fnews%2F102%2F6570473.html|%2Fgicp%2Fnews%2F102%2F6561366.html|%2Fgicp%2Fnews%2F102%2F6561360.html|%2Fgicp%2Fnews%2F102%2F6556259.html|%2Fgicp%2Fnews%2F102%2F6551231.html'
+            });
+        }
+        //µã»÷
+        function sendclick(id,type,url){
+            if(typeof(Gicprp.send) == 'function'){
+                Gicprp.send({
+                    'action_type':'click',
+                    'iuName':'web_pc',
+                    'contentId':id,//´Ë´¦´«Èë±»µã»÷ÄÚÈÝµÄÄÚÈÝid
+                    'serviceType':'74',
+                    'contentType':type,//´Ë´¦´«Èë±»µã»÷ÄÚÈÝµÄÄÚÈÝÀàÐÍ video »òÕßÊÇnews
+                    'url':encodeURIComponent(url)
+                });
+            }
+        }
+    </script>
+</body>
+
+</html>
+[2019-05-07 14:20:57,371] 772-INFO:-------------------------------------------------------
+GET https://pvp.qq.com/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml
+request [2019-05-07 14:20:57.37]:
+Connection: keep-alive
+Accept-Encoding: gzip, deflate
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240
+(Request-Line): GET /htm/novel1/27695.htm HTTP/1.1
+Accept-Language: zh-CN
+
+None
+=====================================
+
+response [2019-05-07 14:20:57.37]:
+200 OK
+Server: NWSs
+Date: Tue, 07 May 2019 06:21:02 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Cache-Control: max-age=60
+Expires: Tue, 07 May 2019 06:22:01 GMT
+Last-Modified: Tue, 07 May 2019 06:20:00 GMT
+Content-Encoding: gzip
+X-NWS-LOG-UUID: 4471f546-1732-4a24-892b-6deb6a3b3bd3
+X-Cache-Lookup: Hit From Upstream
+
+<!DOCTYPE html>
+<html>
+	<head>
+	<meta charset="gbk">
+	<meta name="author" content="Tencent-CP">
+	<meta name="Copyright" content="Copyright (c) 2006-2015 TENCENT">
+	<meta name="keywords" content="ÍõÕßÈÙÒ«ÐÂÎÅ,ÍõÕßÈÙÒ«¹«¸æ,ÍõÕßÈÙÒ«»î¶¯,ÍõÕßÈÙÒ«ÈÈÃÅ">
+	<meta name="description" content="¡¶ÍõÕßÈÙÒ«¡·ÊÇÌÚÑ¶ÌìÃÀ¹¤×÷ÊÒÀúÊ±3ÄêÍÆ³öµÄ¶«·½Ó¢ÐÛ¼´Ê±¶ÔÕ½ÊÖÓÎ´ó×÷£¬¿¹ËþÇ¿É±¡¢ÍÅÃð³¬Éñ£¬ÁìÂÔË¬ÈÈÑª¾º¼¼µÄº¨³©ÁÜÀì£¡1v1¡¢3v3¡¢´³¹ØµÈ·á¸»ÓÎÏ·Ä£Ê½£¬ËæÊ±Õ½£¬¸ü×ÔÓÉ£¡¿ç·þÆ¥ÅäÃë¿ª¾Ö£¬ºÃÓÑ×é¶ÓÕ½ÅÅÎ»£¬²»¿¿×°±¸¡¢Ã»ÓÐµÈ¼¶£¬¸ü¹«Æ½¡¢¸üË¬¿ìµÄÎÞ²îÒì¶ÔÕ½£¡">
+		<title>ÐÂÎÅÁÐ±í-ÍõÕßÈÙÒ«¹Ù·½ÍøÕ¾-ÌÚÑ¶ÓÎÏ·</title>
+	<link href="//game.gtimg.cn/images/yxzj/web201706/css/comm-v1.css" rel="stylesheet" />
+	<link rel="stylesheet" type="text/css" href="/web201605/css/artlist.css">
+	</head>
+	<body class="old-header">
+		 <div id="header" class="header tganime-header-fix">
+    <div class="header-inner">
+        <h1><a href="//pvp.qq.com/" class="logo pa" title="ÍõÕßÈÙÒ«" onclick="PTTSendClick('headNav','logo','logo');">ÍõÕßÈÙÒ«</a></h1>
+        <!--=========Ö÷µ¼º½==========-->           
+		<ul class="main-nav clearfix">
+			<li class="first-nav"> <a href="//pvp.qq.com/" target="_blank" title="¹ÙÍøÊ×Ò³" onclick="PTTSendClick('headNav','home','¹ÙÍøÊ×Ò³');">¹ÙÍøÊ×Ò³<em>HOME</em></a> </li>
+			<li> <a href="/web201605/herolist.shtml" target="_blank" title="ÓÎÏ·×ÊÁÏ" onclick="PTTSendClick('headNav','data','ÓÎÏ·×ÊÁÏ');">ÓÎÏ·×ÊÁÏ<em>DATA</em></a> </li>
+			<li> <a href="/raiders/" target="_blank" title="ÄÚÈÝÖÐÐÄ" onclick="PTTSendClick('headNav','strategy','ÄÚÈÝÖÐÐÄ');">ÄÚÈÝÖÐÐÄ<em>CONTENTS</em></a> </li>
+			<li> <a href="/match/kpl/index.shtml" target="_blank" title="ÈüÊÂÖÐÐÄ" onclick="PTTSendClick('headNav','match','ÈüÊÂÖÐÐÄ');">ÈüÊÂÖÐÐÄ<em>MATCH</em></a> </li>
+			<li> <a href="/cp/a20171023pvppc/" target="_blank" title="ÉÌ³Ç/ºÏ×÷" onclick="PTTSendClick('headNav','CULTURE','°ÙÌ¬ÍõÕß');">°ÙÌ¬ÍõÕß<em>CULTURE</em></a> </li>
+			<li> <a href="javascript:void(0)" title="ÉçÇø»¥¶¯" onclick="PTTSendClick('headNav','Community','ÉçÇø»¥¶¯');">ÉçÇø»¥¶¯<em>COMMUNITY</em></a> </li>
+			<li> <a href="javascript:void(0)" target="_blank" title="Íæ¼ÒÖ§³Ö" onclick="PTTSendClick('headNav','player','Íæ¼ÒÖ§³Ö');">Íæ¼ÒÖ§³Ö<em>PLAYER</em></a> </li>
+		</ul>
+    </div>
+    <!--=====¶þ¼¶µ¼º½=====-->
+    <div id="J_subNav" class="sub-nav" style="visibility: hidden;">
+        <ul class="sub-nav-inner">
+        	<li class="down-nav"> &nbsp; </li>
+        	<li class="down-nav"> <a href="/cp/a20170829bbgxsm/index.html" target="_blank" title="°æ±¾½éÉÜ" onclick="PTTSendClick('headNav','data_ver','°æ±¾½éÉÜ');">°æ±¾½éÉÜ</a> <a href="/web201605/introduce.shtml" target="_blank" title="ÓÎÏ·½éÉÜ" onclick="PTTSendClick('headNav','data_moba','ÓÎÏ·½éÉÜ');">ÓÎÏ·½éÉÜ</a> <a href="/web201605/herolist.shtml" target="_blank" title="Ó¢ÐÛ×ÊÁÏ" onclick="PTTSendClick('headNav','data_hero','Ó¢ÐÛ×ÊÁÏ');">Ó¢ÐÛ×ÊÁÏ</a> <a href="/coming/v2/" target="_blank" title="±¬ÁÏÕ¾" onclick="PTTSendClick('headNav','data_coming','±¬ÁÏÕ¾');">±¬ÁÏÕ¾</a> <a href="javascript:void(0)" title="¹ÊÊÂÕ¾" onclick="TGDialogS('story');PTTSendClick('headNav','data_story','¹ÊÊÂÕ¾');">¹ÊÊÂÕ¾</a> <a href="/web201605/wallpaper.shtml" target="_blank" title="ÓÎÏ·±ÚÖ½" onclick="PTTSendClick('headNav','data_wallpaper','ÓÎÏ·±ÚÖ½');">ÓÎÏ·±ÚÖ½</a> </li>
+        	<li class="down-nav"> <a href="/raiders/" target="_blank" title="¹¥ÂÔÖÐÐÄ" onclick="PTTSendClick('headNav','strategy_center','¹¥ÂÔÖÐÐÄ');">¹¥ÂÔÖÐÐÄ</a> <a href="/strategy/" target="_blank" title="Ó¢ÐÛ¹¥ÂÔ" onclick="PTTSendClick('headNav','strategy_hero','Ó¢ÐÛ¹¥ÂÔ');">Ó¢ÐÛ¹¥ÂÔ</a> <a href="/v/" target="_blank" title="ÊÓÆµÖÐÐÄ" onclick="PTTSendClick('headNav','strategy_video','ÊÓÆµÖÐÐÄ');">ÊÓÆµÖÐÐÄ</a> <a href="/author/" target="_blank" title="×÷ÕßÈë×¤" onclick="PTTSendClick('headNav','author','×÷ÕßÈë×¤');"><i class="icon-fans"></i>×÷ÕßÈë×¤</a> <a href="/mcn/" target="_blank" title="Ã½ÌåÈë×¤" onclick="PTTSendClick('headNav','mcn','Ã½ÌåÈë×¤');"><i class="icon-fans"></i>Ã½ÌåÈë×¤</a> </li>
+        	<li class="down-nav"> <a href="/match/kcc.shtml" target="_blank" title="¹Ú¾ü±­" onclick="PTTSendClick('headNav','match_kcc','kcc');">¹Ú¾ü±­</a> <a href="/match/kpl/index.shtml" target="_blank" title="KPLÖ°ÒµÁªÈü" onclick="PTTSendClick('headNav','match_KPL','KPL');">KPL</a> <a href="//pvp.qq.com/cp/a20170818school/index.shtml" target="_blank" title="ÍõÕß¸ßÐ£ÁªÈü" onclick="PTTSendClick('headNav','match_gaoxiao','ÍõÕß¸ßÐ£ÁªÈü');">¸ßÐ£Èü</a> <a href="/cp/a20170808city/index.shtml" target="_blank" title="KOCÍõÕß³ÇÊÐÈü" onclick="PTTSendClick('headNav','match_KOC','KOC');">³ÇÊÐÈü</a> <a href="/match/quanmin/index.html#/" target="_blank" title="È«ÃñÈü" onclick="PTTSendClick('headNav','match_KCC','quanmin');">È«ÃñÈü</a> </li>
+        	<li class="down-nav"> <a href="/history/" target="_blank" title="ÍõÕßÎÄ»¯Õ¾" onclick="PTTSendClick('headNav','history','ÍõÕßÎÄ»¯Õ¾');">ÍõÕßÎÄ»¯Õ¾</a> <a href="/cp/a20180327music/index.html" target="_blank" title="ÍõÕßÒôÀÖÌý" onclick="PTTSendClick('headNav','a20180327music','ÍõÕßÒôÀÖÌý');"><i class="icon-fans"></i>ÍõÕßÒôÀÖÌý</a> <a href="/wonder/" target="_blank" title="ÍòÇ§ÊÀ½ç" onclick="PTTSendClick('headNav','wonder','ÍòÇ§ÊÀ½ç');">ÍòÇ§ÊÀ½ç</a> <a href="/cp/a20171023pvppc/" target="_blank" title="°ÙÌ¬ÍõÕß" onclick="PTTSendClick('headNav','a20171023pvppc','°ÙÌ¬ÍõÕß');">°ÙÌ¬ÍõÕß</a> <a href="/cp/a20170707zhhz" target="_blank" title="ÍõÕßÐÅÓÃ¿¨" onclick="PTTSendClick('headNav','life_Credit','ÍõÕßÐÅÓÃ¿¨');">ÍõÕßÐÅÓÃ¿¨</a> </li>
+        	<li class="down-nav"> <a href="javascript:void(0)" title="¹Ù·½ÖúÊÖ" onclick="TGDialogS('zhushou');PTTSendClick('headNav','Community_tools','¹Ù·½ÖúÊÖ');"><i class="icon-hot"></i>¹Ù·½ÖúÊÖ</a> <a href="//buluo.qq.com/p/barindex.html?bid=227061" target="_blank" title="ÊÖQ²¿Âä" onclick="PTTSendClick('headNav','Community_qq','ÊÖQ²¿Âä');">ÊÖQ²¿Âä</a> <a href="javascript:void(0)" target="_blank" title="Î¢ÐÅÈ¦×Ó" onclick="TGDialogS('weiquan');PTTSendClick('headNav','Community_wx','Î¢ÐÅÈ¦×Ó');">Î¢ÐÅÈ¦×Ó</a> <a href="//weibo.com/heromoba" target="_blank" title="¹Ù·½Î¢²©" onclick="PTTSendClick('headNav','Community_wb','¹Ù·½Î¢²©');">¹Ù·½Î¢²©</a> <a href="javascript:void(0)" title="Î¢ÐÅ¹«ÖÚºÅ" onclick="TGDialogS('weixin');PTTSendClick('headNav','Community_wxgzh','Î¢ÐÅ¹«ÖÚºÅ');">Î¢ÐÅ¹«ÖÚºÅ</a> <a href="javascript:void(0)" title="ÊÖQ¶©ÔÄºÅ" onclick="TGDialogS('qq');PTTSendClick('headNav','Community_qqdyh','ÊÖQ¶©ÔÄºÅ');">ÊÖQ¶©ÔÄºÅ</a> <a href="/fans/index.shtml" target="_blank" title="Í¬ÈËÉçÇø" onclick="PTTSendClick('headNav','Community_fans','Í¬ÈËÉçÇø');" class="down-nav-fans"><i class="icon-fans"></i>Í¬ÈËÉçÇø</a> </li>
+        	<li class="down-nav"> <a href="//jiazhang.qq.com/jz/home.html " target="_blank" title="³É³¤ÊØ»¤Æ½Ì¨" onclick="PTTSendClick('headNav','player_watch','³É³¤ÊØ»¤Æ½Ì¨');"><i class="icon-guard"></i>³É³¤ÊØ»¤Æ½Ì¨</a> <a href="/cp/a20170726hsbbspc/index.html" target="_blank" title="½¡¿µÏµÍ³" onclick="PTTSendClick('headNav','player_healthy','½¡¿µÏµÍ³');"><i class="icon-health"></i>½¡¿µÏµÍ³</a> <a href="javascript:void(0)" target="_blank" title="¿Í·þ×¨Çø" onclick="TGDialogS('kefu');PTTSendClick('headNav','player_kf','¿Í·þ×¨Çø');">¿Í·þ×¨Çø</a> <a href="/webplat/info/news_version3/15592/24091/24092/24095/m15241/201508/370256.shtml" title="Àñ°ü¶Ò»»" onclick="PTTSendClick('headNav','player_feedback','Àñ°ü¶Ò»»');" target="_blank">Àñ°ü¶Ò»»</a> <a href="//tool.helper.qq.com/v3/wzry/official_website/index.html" title="×ÔÖú·þÎñ" onclick="PTTSendClick('headNav','player_service','×ÔÖú·þÎñ');" target="_blank">×ÔÖú·þÎñ</a> </li>
+        </ul>
+    </div>
+</div>
+		  <div class="wrapper"> 
+		  	
+<div class="zkcontent">
+			<div class="artlistcontent clearfix">
+<div class="con1-pos">
+     <i class="tb1 icon fl"></i>
+     <a href="http://pvp.qq.com/" target="_blank" title="ÍõÕßÈÙÒ«Ê×Ò³">ÍõÕßÈÙÒ«Ê×Ò³</a>
+     <span>></span>
+     <label>¹«¸æ</label>
+</div> 
+				<!--ÎÄÕÂÁÐ±í£¨×ó£©-->
+				<div class="art_l_list">									
+
+						<div class="art_tabtitle clearfix" id="tab">
+				          <a href="/webplat/info/news_version3/15592/24091/24092/m20041/list_1.shtml" title="ÈÈÃÅ" class="curr">ÈÈÃÅ</a>
+				          <a href="/webplat/info/news_version3/15592/24091/24092/24094/m15240/list_1.shtml" title="ÐÂÎÅ">ÐÂÎÅ</a>
+				          <a href="/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml" title="¹«¸æ">¹«¸æ</a>
+				          <a href="/webplat/info/news_version3/15592/24091/24092/24096/m15240/list_1.shtml" title="»î¶¯">»î¶¯</a>
+				          <a href="/webplat/info/news_version3/15592/24091/24092/24097/m15240/list_1.shtml" title="ÈüÊÂ">ÈüÊÂ</a>           
+						</div> 
+					
+					<div class="art_lists">
+						<ul>
+							        												<li>
+								<a href="/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml" class="art_type fl" target="_blank">[¹«¸æ]</a>
+					            <a href="/webplat/info/news_version3/15592/24091/24092/24095/m15241/201904/805630.shtml" class="art_word" target="_blank">4ÔÂ25ÈÕÈ«·þ²»Í£»ú¸üÐÂ¹«¸æ</a>
+					            <span class="art_day">2019-04-24</span>
+							</li>
+														<li>
+								<a href="/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml" class="art_type fl" target="_blank">[¹«¸æ]</a>
+					            <a href="/webplat/info/news_version3/15592/24091/24092/24095/m15241/201810/770288.shtml" class="art_word" target="_blank">iOSÏµÍ³ÒªÇó¼°Éý¼¶Ö¸Òý¹«¸æ</a>
+					            <span class="art_day">2019-03-29</span>
+							</li>
+														<li>
+								<a href="/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml" class="art_type fl" target="_blank">[¹«¸æ]</a>
+					            <a href="/webplat/info/news_version3/15592/24091/24092/24095/m15241/201905/807383.shtml" class="art_word" target="_blank">5ÔÂ6ÈÕ¡°ÑÝÔ±¡±³Í·£Ãûµ¥</a>
+					            <span class="art_day">2019-05-06</span>
+							</li>
+														<li>
+								<a href="/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml" class="art_type fl" target="_blank">[¹«¸æ]</a>
+					            <a href="/webplat/info/news_version3/15592/24091/24092/24095/m15241/201905/807380.shtml" class="art_word" target="_blank">¾»»¯ÓÎÏ·»·¾³ÉùÃ÷¼°´¦·£¹«¸æ£¨4ÔÂ29ÈÕ-5ÔÂ5ÈÕ£©</a>
+					            <span class="art_day">2019-05-06</span>
+							</li>
+														<li>
+								<a href="/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml" class="art_type fl" target="_blank">[¹«¸æ]</a>
+					            <a href="/webplat/info/news_version3/15592/24091/24092/24095/m15241/201904/806568.shtml" class="art_word" target="_blank">¾»»¯ÓÎÏ·»·¾³ÉùÃ÷¼°´¦·£¹«¸æ£¨4ÔÂ22ÈÕ-4ÔÂ28ÈÕ£©</a>
+					            <span class="art_day">2019-04-29</span>
+							</li>
+														<li>
+								<a href="/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml" class="art_type fl" target="_blank">[¹«¸æ]</a>
+					            <a href="/webplat/info/news_version3/15592/24091/24092/24095/m15241/201904/806567.shtml" class="art_word" target="_blank">4ÔÂ29ÈÕ¡°ÑÝÔ±¡±³Í·£Ãûµ¥</a>
+					            <span class="art_day">2019-04-29</span>
+							</li>
+														<li>
+								<a href="/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml" class="art_type fl" target="_blank">[¹«¸æ]</a>
+					            <a href="/webplat/info/news_version3/15592/24091/24092/24095/m15241/201904/806324.shtml" class="art_word" target="_blank">4ÔÂ29ÈÕÈ«·þ²»Í£»ú¸üÐÂ¹«¸æ</a>
+					            <span class="art_day">2019-04-28</span>
+							</li>
+														<li>
+								<a href="/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml" class="art_type fl" target="_blank">[¹«¸æ]</a>
+					            <a href="/webplat/info/news_version3/15592/24091/24092/24095/m15241/201904/805912.shtml" class="art_word" target="_blank">4ÔÂ26ÈÕÌåÑé·þÍ£»ú¸üÐÂ¹«¸æ</a>
+					            <span class="art_day">2019-04-26</span>
+							</li>
+														<li>
+								<a href="/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml" class="art_type fl" target="_blank">[¹«¸æ]</a>
+					            <a href="/webplat/info/news_version3/15592/24091/24092/24095/m15241/201904/805892.shtml" class="art_word" target="_blank">4ÔÂ26ÈÕiOS½¨Òé¸üÐÂ¹«¸æ</a>
+					            <span class="art_day">2019-04-26</span>
+							</li>
+														<li>
+								<a href="/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml" class="art_type fl" target="_blank">[¹«¸æ]</a>
+					            <a href="/webplat/info/news_version3/15592/24091/24092/24095/m15241/201904/805752.shtml" class="art_word" target="_blank">4ÔÂ25ÈÕ°²×¿½¨Òé¸üÐÂ¹«¸æ</a>
+					            <span class="art_day">2019-04-26</span>
+							</li>
+														<li>
+								<a href="/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml" class="art_type fl" target="_blank">[¹«¸æ]</a>
+					            <a href="/webplat/info/news_version3/15592/24091/24092/24095/m15241/201904/805820.shtml" class="art_word" target="_blank">4ÔÂ26ÈÕÈ«·þ²»Í£»ú¸üÐÂ¹«¸æ</a>
+					            <span class="art_day">2019-04-25</span>
+							</li>
+														<li>
+								<a href="/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml" class="art_type fl" target="_blank">[¹«¸æ]</a>
+					            <a href="/webplat/info/news_version3/15592/24091/24092/24095/m15241/201904/805709.shtml" class="art_word" target="_blank">¡¾ÒÑ·¢²¼¡¿4ÔÂ25ÈÕÈ«·þ²»Í£»úÐÞ¸´¹«¸æ</a>
+					            <span class="art_day">2019-04-25</span>
+							</li>
+														<li>
+								<a href="/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml" class="art_type fl" target="_blank">[¹«¸æ]</a>
+					            <a href="/webplat/info/news_version3/15592/24091/24092/24095/m15241/201904/805478.shtml" class="art_word" target="_blank">4ÔÂ24ÈÕÌåÑé·þÍ£»ú¸üÐÂ¹«¸æ</a>
+					            <span class="art_day">2019-04-24</span>
+							</li>
+														<li>
+								<a href="/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml" class="art_type fl" target="_blank">[¹«¸æ]</a>
+					            <a href="/webplat/info/news_version3/15592/24091/24092/24095/m15241/201904/805352.shtml" class="art_word" target="_blank">4ÔÂ23ÈÕÌåÑé·þÍ£»ú¸üÐÂ¹«¸æ</a>
+					            <span class="art_day">2019-04-23</span>
+							</li>
+														<li>
+								<a href="/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml" class="art_type fl" target="_blank">[¹«¸æ]</a>
+					            <a href="/webplat/info/news_version3/15592/24091/24092/24095/m15241/201904/805195.shtml" class="art_word" target="_blank">4ÔÂ24ÈÕÈ«·þ²»Í£»ú¸üÐÂ¹«¸æ</a>
+					            <span class="art_day">2019-04-23</span>
+							</li>
+														<li>
+								<a href="/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml" class="art_type fl" target="_blank">[¹«¸æ]</a>
+					            <a href="/webplat/info/news_version3/15592/24091/24092/24095/m15241/201904/805111.shtml" class="art_word" target="_blank">¾»»¯ÓÎÏ·»·¾³ÉùÃ÷¼°´¦·£¹«¸æ£¨4ÔÂ12ÈÕ-4ÔÂ21ÈÕ£©</a>
+					            <span class="art_day">2019-04-22</span>
+							</li>
+														<li>
+								<a href="/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml" class="art_type fl" target="_blank">[¹«¸æ]</a>
+					            <a href="/webplat/info/news_version3/15592/24091/24092/24095/m15241/201904/805110.shtml" class="art_word" target="_blank">4ÔÂ22ÈÕ¡°ÑÝÔ±¡±³Í·£Ãûµ¥</a>
+					            <span class="art_day">2019-04-22</span>
+							</li>
+														<li>
+								<a href="/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml" class="art_type fl" target="_blank">[¹«¸æ]</a>
+					            <a href="/webplat/info/news_version3/15592/24091/24092/24095/m15241/201904/804815.shtml" class="art_word" target="_blank">4ÔÂ19ÈÕÌåÑé·þÍ£»ú¸üÐÂ¹«¸æ</a>
+					            <span class="art_day">2019-04-19</span>
+							</li>
+														<li>
+								<a href="/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml" class="art_type fl" target="_blank">[¹«¸æ]</a>
+					            <a href="/webplat/info/news_version3/15592/24091/24092/24095/m15241/201904/804721.shtml" class="art_word" target="_blank">Ñþ¼¼ÄÜÃèÊö´íÎóËµÃ÷¹«¸æ</a>
+					            <span class="art_day">2019-04-19</span>
+							</li>
+														<li>
+								<a href="/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_1.shtml" class="art_type fl" target="_blank">[¹«¸æ]</a>
+					            <a href="/webplat/info/news_version3/15592/24091/24092/24095/m15241/201904/804551.shtml" class="art_word" target="_blank">½Ú×àÈÈÀËÐÇÔª¼°Ò»ÉúËù°®µÈÆ¤·ôÏÔÊ¾Òì³£ËµÃ÷</a>
+					            <span class="art_day">2019-04-18</span>
+							</li>
+							        											
+					   </ul>
+					</div>	
+					<!--·­Ò³°´Å¥-->
+    <div class="page clearfix">
+        <!-- 1 / 87 -->
+       
+   <a class="fr" title="ÏÂÒ»Ò³" href="/webplat/info/news_version3/15592/24091/24092/24095/m15240/list_2.shtml">ÏÂÒ»Ò³</a>
+            
+       </div>	
+				</div>
+				<!--ÓÒ²à¹ã¸æÀ¸-->
+<div class="art_r_model">
+  <div class="art_r_downbtnimg" onclick="TGDialogS('download');pgvSendClick({hottag:'main.rightbar.download'});">
+    <img width="195" height="150" src="//game.gtimg.cn/images/yxzj/web201605/page/down_btn.png">
+  </div>
+  <div class="art_r_downcode">
+    <img width="150" height="250" src="//game.gtimg.cn/images/yxzj/web201605/page/down_code.png">
+  </div>
+  <ul class="art_r_title">
+    <li><a href="https://weibo.com/heromoba?is_hot=1" target="_blank">¹Ù·½Î¢²©</a></li>
+    <li class="right-wx"><a href="//bbs.g.qq.com/forum.php?mod=forumdisplay&fid=56891&ADTAG=game.web.yxzj"
+        target="_blank">Î¢ÐÅ¹«ÖÚºÅ</a>
+      <div class="down-pic">
+        <img src="//game.gtimg.cn/images/yxzj/web201706/images/comm/floatwindow/gzh_code.jpg" alt="Î¢ÐÅ¹«ÖÚºÅ" width="101"
+          height="100" class="assCode">
+        <p>É¨Âë<span>¹Ø×¢¹Ù·½¹«ÖÚºÅ</span><br>»ñÈ¡<span>×îÐÂ×ÊÑ¶¼°ºÃÀñ</span></p>
+      </div>
+    </li>
+  </ul>
+  <ul class="art_r_items">
+    <li>
+      <a href="//pvp.qq.com/web201605/introduce.shtml" target="_blank">
+        <span class="art_r_item_icon"><img width="17" height="24"
+            src="//game.gtimg.cn/images/yxzj/web201605/page/icon_nes.png"></span>
+        <span class="art_r_item_word">ÐÂÊÖÈëÃÅ</span>
+      </a>
+    </li>
+    <li>
+      <a href="//pvp.qq.com/cp/a20161115tyf/index.shtml" target="_blank">
+        <span class="art_r_item_icon"><img width="26" height="35"
+            src="//game.gtimg.cn/images/yxzj/web201605/page/icon_tiyan.png"></span>
+        <span class="art_r_item_word">ÌåÑé·þ</span>
+      </a>
+    </li>
+  </ul>
+  <div class="art_r_bottomImg">
+    <a href='#' data-TGAD='15191,16700' onclick="pgvSendClick({hottag:'page.rightBar.ad'});"></a>
+  </div>
+</div>
+<!--±ßÀ¸²ð³öµÄÏÂÔØ-->
+<div class="dialog download-popup" id="download" style="display:none">
+    <div class="dia-con">
+        <div class="dia-download clearfix">
+          <div class="code">
+            <img src="http://game.gtimg.cn/images/yxzj/web201605/page/code.png"/></div>
+          <div class="btnlist">
+            <a href="//pvp.qq.com/down/pc/index.shtml" target="_blank" class="pc" onclick="PTTSendClick('downloadDialog','pc','PCÄ£ÄâÆ÷ÏÂÔØ');"></a>
+            <a href="https://itunes.apple.com/cn/app/wang-zhe-rong-yao-quan-qiu/id989673964?mt=8" target="_blank" class="ios" onclick="PTTSendClick('downloadDialog','ios','iosÏÂÔØ');"></a>
+            <a href="http://dlied5.myapp.com/myapp/1104466820/sgame/2017_com.tencent.tmgp.sgame_h8691_1.44.1.10_95fcaf.apk" target="_blank" class="android" onclick="PTTSendClick('downloadDialog','android','°²×¿ÏÂÔØ');"></a>
+<a href="http://dlied5.myapp.com/myapp/1104466820/sgame/2017_com.tencent.tmgp.sgame_h8692_1.44.1.10_8c0b98.apk" target="_blank" class="android1" onclick="PTTSendClick('downloadDialog','androidMini','°²×¿¾«¼ò°æÏÂÔØ');"></a>
+
+          </div>
+        </div>
+    </div>
+    <a class="dia-close" href="javascript:showDialog.hide()" title="¹Ø±Õ"></a>
+</div>
+				</div>
+			</div>
+		</div>
+<!-- Lib  -->
+<script src="//game.gtimg.cn/images/js/jquery/jquery-1.11.3.min.js"></script>
+<script src="//game.gtimg.cn/images/yxzj/web201706/js/lazyload.min.js"></script>
+<script src="//game.gtimg.cn/images/js/milo/milo.js"></script>
+<!-- Site header footer  -->
+<!-- <script src="ossweb-img/js/header.js"></script> -->
+<script src="//game.gtimg.cn/images/yxzj/web201706/js/header.js"></script>
+<script src="//game.gtimg.cn/images/yxzj/web201706/js/footer.js"></script>
+<script src="//game.gtimg.cn/images/js/title.js"></script>
+<!-- AMS KV Link -->
+<div id="kvLinkSetDiv" style="display:none">
+<div class="kv-bg" style="background-image:url(//ossweb-img.qq.com/upload/webplat/info/yxzj/20190425/892131058870929.jpg);">
+	        		<a href="https://pvp.qq.com/cp/a20190505wwkhj/" onClick="PTTSendClick('btn','topkv','½øÈë×¨Ìâ');"  class="kv_link" title="²é¿´ÏêÇé" target="_blank">²é¿´ÏêÇé</a>
+        </div>
+
+</div>
+<!-- Page js -->
+<!-- Í³¼Æ´úÂë -->
+<script src="//game.gtimg.cn/images/js/PTT/ping_tcss_tgideas_https_min.js"></script>
+<script type="text/javascript">
+var setSite={   //ÉèÖÃÍøÕ¾ÊôÐÔ
+    siteType:"os",
+    pageType:"newslist",   //±ØÌîÏî:±¾Ò³ÃæµÄ¶¨Î»£»°´ÕÕÒ³Ãæº¬ÒåÌîÐ´ÀýÈçmain||list||detail||download||share||page1||pageN
+    pageName:"ÐÂÎÅÁÐ±í-PC",  //±ØÌîÏî:Ò³ÃæÖÐÎÄÃû
+    osact:0,    //Ñ¡ÌîÏî:ÊÇ·ñÊÇ¹ÙÍø×¨Ìâ(ÔÚ¹ÙÍøÔËÓªµÄ×¨Ìâ)boolean£»Ä¬ÈÏÊÇ0£»¿ÉÒÔÔÚÁ´½ÓÉÏ¼ÓÈë²ÎÊýosact=1À´Áé»îÉèÖÃ
+    ingame:0,   //Ñ¡ÌîÏî:ÊÇ·ñÍ¶·ÅÔÚÓÎÏ·APPÄÚboolean£»Ä¬ÈÏÊÇ0£»¿ÉÒÔÔÚÁ´½ÓÉÏ¼ÓÈë²ÎÊýingame=1À´Áé»îÉèÖÃ
+    stayTime:1  //Ñ¡ÌîÏî:ÊÇ·ñÐèÒªÍ³¼ÆÍ£ÁôÊ±³¤boolean£»Ä¬ÈÏÊÇ1
+}
+if(typeof(pgvMain)=='function')pgvMain();
+</script>
+
+<script>
+(function() {
+    var obj = document.getElementById("tab").getElementsByTagName("a");
+    var args = location.href;
+    var b = args.indexOf('/m15240/'),
+    c = 0,
+    d = 0,
+    t,
+    str = "";
+    var s = args.substring(0, b);
+    for (k = 0; k < obj.length; k++) {
+        str = obj[k].href;
+        c = str.indexOf('/m15240/');
+        t = str.substring(0, c);
+        obj[k].className = "";
+        obj[k].onclick = function() {
+            this.className = "curr";
+        }
+        if (t == s) {
+            obj[k].className = "curr";
+        }
+    }
+})();
+</script>	
+</body>
+</html>
+

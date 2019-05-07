@@ -5,7 +5,10 @@ import json
 class ApiClient:
 
     def __init__(self):
-        self.server = 'http://yangmao.ieyuan.com'
+        #self.server = 'http://yangmao.ieyuan.com'
+        self.server = 'http://ggj.api.qinpl.cn'
+        #self.server = 'http://api.yxgg.com'
+        #self.server = 'http://hd.qinpl.cn/api.php'
         # self.proxies = {'http':'http://127.0.0.1:8888','https':'http://127.0.0.1:8888'}
         self.proxies = None
 
@@ -156,6 +159,54 @@ class ApiClient:
             return False
         except:
             return False
+
+    def post_hd_anovel_content(self,data,key,now_time):
+        try:
+            response = requests.post(self.server+'?op=add_content',headers={
+                'KEY':key,
+                'TIMESTAMP':str(now_time)
+                },data=data)
+            return True
+            pass
+        except :
+            return False
+        pass
+    def post_hd_img_content(self,data):
+        try:
+            response = requests.post(self.server+'?op=up',data=data)
+            return response.content
+            pass
+        except :
+            return False
+        pass
+    def post_yxgg_notice_data(self,data):
+        try:
+            response=requests.post(self.server+'/index.php?r=notice/apiadd',headers={},data=data)
+            return True
+            pass
+        except :
+            return False
+        pass
+    def post_yxgg_img_content(self,data):
+        try:
+            response = requests.post(self.server+'/index.php?r=notice/up',data=data)
+            return response.content
+            pass
+        except Exception, e:
+            return False
+        pass
+    def get_yxgg_newnotice(self):
+        try:
+            response = requests.get(self.server+'/index.php?r=notice/newnotice')
+            return response.content
+            pass
+        except Exception, e:
+            return False
+        pass
+    def cela(self):
+        return 'lslls'
+        pass
+
 
 
 client = ApiClient()
