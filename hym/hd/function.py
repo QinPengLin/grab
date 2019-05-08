@@ -64,7 +64,7 @@ def SetKey(time,url):
 def get_NewNotice():#/gicp/news/102/6637780.html返回最新的列表http://stzb.163.com/notice/2019/04/30/20399_811347.html
 	#json_data='{"qq_pg":{"href":"https://pg.qq.com/gicp/news/102/6600643.html"},"wy_stzb":{"href":"//stzb.163.com/notice/2019/04/19/20399_809590.html"}}'
 	#json_data='{"qq_pg":{"href":"https://pg.qq.com/gicp/news/102/6637780.html"},"wy_stzb":{"href":"http://stzb.163.com/notice/2019/04/23/20399_810226.html"}}'
-	#json_data='{"qq_pvp":{"href":"https://pvp.qq.com/webplat/info/news_version3/15592/24091/24092/24095/m15241/201810/770288.shtml"},"qq_pg":{"href":"https://pg.qq.com/gicp/news/102/6637780.html"},"wy_stzb":{"href":"http://stzb.163.com/notice/2019/04/30/20399_811348.html"}}'
+	#json_data='{"qq_gp":{"href":"https://gp.qq.com/web20190423/detail_news.html?newsid=6646668"},"qq_pg":{"href":"https://pg.qq.com/gicp/news/102/6637780.html"},"wy_stzb":{"href":"http://stzb.163.com/notice/2019/04/30/20399_811348.html"}}'
 	json_data=api_client.client.get_yxgg_newnotice()
 	return json.loads(json_data)
 	pass
@@ -90,7 +90,53 @@ def clean_NoticeList(data,types,configs):
 	if types=='qq_pvp':
 		return qq_pvp_clean_NoticeList(data,config,configs)
 		pass
+	if types=='qq_gp':
+		return qq_gp_clean_NoticeList(data,config,configs)
+		pass
 	return {}
+	pass
+def qq_gp_clean_NoticeList(data,config,configs):#腾讯和平精英
+	datas=data.split(configs['rm']+'=')[1][:-1]
+	datas=json.loads(datas)['msg']['result']
+	y=0
+	lists={}
+	for x in datas:
+		if not config.has_key('qq_gp'):
+			lists[y]={
+			'href':configs['detail_new_url']+x['iNewsId'],#和平精英原创地址
+			'json_href':configs['detail_new_json_url']+x['iNewsId'],#和平精英数据接口地址
+			'title':x['sTitle'],
+			'time':x['sCreated'],
+			'company_name':configs['company_name'],
+			'name':configs['name'],
+			'port_type':configs['port_type'],
+			}
+			y+=1
+			continue
+			pass
+		if configs['detail_new_url']+x['iNewsId']!=config['qq_gp']['href']:
+			lists[y]={
+			'href':configs['detail_new_url']+x['iNewsId'],#和平精英原创地址
+			'json_href':configs['detail_new_json_url']+x['iNewsId'],#和平精英数据接口地址
+			'title':x['sTitle'],
+			'time':x['sCreated'],
+			'company_name':configs['company_name'],
+			'name':configs['name'],
+			'port_type':configs['port_type'],
+			}
+			pass
+		if configs['detail_new_url']+x['iNewsId']==config['qq_gp']['href']:
+			break
+			pass
+		y+=1
+		pass
+	lists_w={}
+	w_y=0
+	while w_y<len(lists):
+		lists_w[w_y]=lists[len(lists)-1-w_y]
+		w_y+=1
+		pass
+	return lists_w
 	pass
 def qq_pvp_clean_NoticeList(data,config,configs):#腾讯王者荣耀列表解析
 	a=xt.fromstring(data)
@@ -237,6 +283,31 @@ def wy_stzb_clean_NoticeList(data,config,configs):#网易率土之滨列表解�
 		pass
 	return lists_w
 	pass
+def qq_gp_clean_NoticeArticle(data,configs):#和平精英处理每篇公告的内容并返回提交服务器的数据
+	time.sleep(3)
+	datas=data.split('searchObj=')[1][:-1]
+	datas=json.loads(datas)
+	sContent=datas['msg']['sContent']
+	a=xt.fromstring(sContent)
+	imgUrl=a.xpath('//img/@src')
+	im_y=0
+	while im_y<len(imgUrl):
+		newImgUrl=get_imgUp(imgUrl[im_y])
+		thImgUrl=imgUrl[im_y].split("?")
+		sContent=sContent.replace(thImgUrl[0],newImgUrl)
+		im_y+=1
+		pass
+	reData={
+	'notice_content':sContent,
+	'notice_title':configs['title'],
+	'notice_url':configs['href'],
+	'game_name':configs['name'],
+	'port_type':configs['port_type'],
+	'game_company':configs['company_name'],
+	'notice_time':configs['time'],
+	}
+	return reData
+	pass
 def qq_pg_clean_NoticeArticle(data,configs):#处理每篇公告的内容并返回提交服务器的数据
 	time.sleep(3)
 	a=xt.fromstring(data)
@@ -332,6 +403,12 @@ def get_imgUp(urls):#获取图片上传服务器返回上传后地址
 	response = requests.get(urls,None,proxies=None, timeout=30)
 	rul=api_client.client.post_yxgg_img_content(response.content)
 	return 'http://'+rul
+	pass
+def create_17_number():#随机生成17位数字
+	no1=random.randint(20000000,899999999)
+	no2=random.randint(1000000,99999999)
+	re=str(no1)+str(no2)
+	return re
 	pass
 def ces():
 	print api_client.client.cela()

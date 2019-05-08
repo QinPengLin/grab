@@ -391,6 +391,16 @@ class getNoticeList(Step):#获取需要更新的游戏的公告地址列表
         notice_list=function.get_NoticeList()
         listss={}
         for x in notice_list.items():
+            if x[1]['json']=='1':
+                rm=function.create_17_number()
+                x[1]['rm']=rm
+                href=str(x[1]['href'])+rm
+                response=self.context.request('GET',href)
+                texts=texts=response.content.decode(response.apparent_encoding)
+                listss[x[0]]=function.clean_NoticeList(texts,x[0],x[1])
+                #print texts
+                continue
+                pass
             response=self.context.request('GET',x[1]['href'])
             if x[1]['text']=='1':
                 response.encoding = response.apparent_encoding
@@ -441,6 +451,17 @@ class getNoticeList1(Step):#根据地址列表获取公告并且上传到服务�
                 logger().info(Article)
                 logger().info('qinqinqin')
                 pvp+=1
+                pass
+            pass
+        if self.context.NoticeList.has_key('qq_gp') and self.context.NoticeList['qq_gp']:
+            gp=0
+            while self.context.NoticeList['qq_gp'].has_key(gp):
+                response=self.context.request('GET',self.context.NoticeList['qq_gp'][gp]['json_href'])
+                Article=function.qq_gp_clean_NoticeArticle(response.content,self.context.NoticeList['qq_gp'][gp])
+                api_client.client.post_yxgg_notice_data(Article)
+                logger().info(Article)
+                logger().info('qinqinqin')
+                gp+=1
                 pass
             pass
         #print self.context.NoticeList
