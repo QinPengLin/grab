@@ -369,6 +369,10 @@ def qq_pvp_clean_NoticeArticle(data,configs):
 	notice_time=a.xpath('//span[@id="Freleasetime"]/text()')
 	im_y=0
 	while im_y<len(imgUrl):
+		if '../' in imgUrl[im_y]:
+			im_y+=1
+			continue
+			pass
 		thImgUrl_h=imgUrl[im_y]
 		if not('https:' in imgUrl[im_y]) and not('http:' in imgUrl[im_y]):
 			imgUrl[im_y]='https:'+imgUrl[im_y]
