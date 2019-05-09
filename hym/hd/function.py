@@ -79,8 +79,23 @@ def get_NoticeList():
 	#print json_data
 	return json.loads(json_data)
 	pass
+def in_array(arr,strs,key='href'):
+	re=False
+	for x in arr:
+		if strs==str(x[key]):
+			re=True
+			break
+			pass
+		pass
+	return re
+	pass
 def clean_NoticeList(data,types,configs):
 	config=get_NewNotice()
+	# strs='https://gp.qq.com/web20190423/detail_news.html?newsid=6647320'
+	# #print config['qq_gp']
+	# if in_array(config['qq_gp'],strs):
+	# 	print 'yes'
+	# 	pass
 	if types=='qq_pg':
 		return qq_pg_clean_NoticeList(data,config,configs)
 		pass
@@ -114,7 +129,7 @@ def qq_gp_clean_NoticeList(data,config,configs):#腾讯和平精英
 			y+=1
 			continue
 			pass
-		if configs['detail_new_url']+x['iNewsId']!=config['qq_gp']['href']:
+		if not in_array(config['qq_gp'],configs['detail_new_url']+x['iNewsId']):
 			lists[y]={
 			'href':configs['detail_new_url']+x['iNewsId'],#和平精英原创地址
 			'json_href':configs['detail_new_json_url']+x['iNewsId'],#和平精英数据接口地址
@@ -124,11 +139,8 @@ def qq_gp_clean_NoticeList(data,config,configs):#腾讯和平精英
 			'name':configs['name'],
 			'port_type':configs['port_type'],
 			}
+			y+=1
 			pass
-		if configs['detail_new_url']+x['iNewsId']==config['qq_gp']['href']:
-			break
-			pass
-		y+=1
 		pass
 	lists_w={}
 	w_y=0
@@ -161,7 +173,7 @@ def qq_pvp_clean_NoticeList(data,config,configs):#腾讯王者荣耀列表解析
 			y+=1
 			continue
 			pass
-		if 'https://pvp.qq.com'+href[0]!=config['qq_pvp']['href']:
+		if not in_array(config['qq_pvp'],'https://pvp.qq.com'+href[0]):
 			title=x.xpath('a[@class="art_word"]/text()')
 			time=x.xpath('span[@class="art_day"]/text()')
 			lists[y]={
@@ -172,11 +184,8 @@ def qq_pvp_clean_NoticeList(data,config,configs):#腾讯王者荣耀列表解析
 			'name':configs['name'],
 			'port_type':configs['port_type'],
 			}
+			y+=1
 			pass
-		if 'https://pvp.qq.com'+href[0]==config['qq_pvp']['href']:
-			break
-			pass
-		y+=1
 		pass
 	lists_w={}
 	w_y=0
@@ -209,7 +218,7 @@ def qq_pg_clean_NoticeList(data,config,configs):#腾讯刺激战场列表解析
 			y+=1
 			continue
 			pass
-		if 'https://pg.qq.com'+href[0]!=config['qq_pg']['href']:
+		if not in_array(config['qq_pg'],'https://pg.qq.com'+href[0]):
 			title=x.xpath('a/text()')
 			time=x.xpath('span/text()')
 			lists[y]={
@@ -220,11 +229,8 @@ def qq_pg_clean_NoticeList(data,config,configs):#腾讯刺激战场列表解析
 			'name':configs['name'],
 			'port_type':configs['port_type'],
 			}
+			y+=1
 			pass
-		if 'https://pg.qq.com'+href[0]==config['qq_pg']['href']:
-			break
-			pass
-		y+=1
 		pass
 	lists_w={}
 	w_y=0
@@ -258,7 +264,7 @@ def wy_stzb_clean_NoticeList(data,config,configs):#网易率土之滨列表解�
 			y+=1
 			continue
 			pass
-		if href[0]!=config['wy_stzb']['href']:
+		if not in_array(config['wy_stzb'],href[0]):
 			title=div[0].xpath('a/@title')
 			time=None
 			lists[y]={
@@ -269,11 +275,8 @@ def wy_stzb_clean_NoticeList(data,config,configs):#网易率土之滨列表解�
 			'name':configs['name'],
 			'port_type':configs['port_type'],
 			}
+			y+=1
 			pass
-		if href[0]==config['wy_stzb']['href']:
-			break
-			pass
-		y+=1
 		pass
 	lists_w={}
 	w_y=0
